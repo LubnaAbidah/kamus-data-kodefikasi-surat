@@ -1,0 +1,2423 @@
+{  
+      "data"     :     [
+  {
+    "No": 1,
+    "Kode": "KP.01",
+    "Keterangan": "Kepegawaian",
+    "Uraian": "Bezzeting /Data Persediaan Pegawai"
+  },
+  {
+    "No": 2,
+    "Kode": "KP.02.01",
+    "Keterangan": "Formasi Pegawai",
+    "Uraian": "Usulan Permintaan Formasi"
+  },
+  {
+    "No": 3,
+    "Kode": "KP.02.02",
+    "Keterangan": "Formasi Pegawai",
+    "Uraian": "Penetapan Formasi Pegawai"
+  },
+  {
+    "No": 4,
+    "Kode": "KP.02.03",
+    "Keterangan": "Formasi Pegawai",
+    "Uraian": "Penetapan Formasi Khusus"
+  },
+  {
+    "No": 5,
+    "Kode": "KP.03.01.01",
+    "Keterangan": "Pengadaan Pegawai",
+    "Uraian": "Penerimaan Pegawai Diterima"
+  },
+  {
+    "No": 6,
+    "Kode": "KP.03.01.02",
+    "Keterangan": "Pengadaan Pegawai",
+    "Uraian": "Penerimaan Pegawai Ditolak"
+  },
+  {
+    "No": 7,
+    "Kode": "KP.03.02",
+    "Keterangan": "Pengadaan Pegawai",
+    "Uraian": "Pengangkatan CPNS dan PNS"
+  },
+  {
+    "No": 8,
+    "Kode": "KP.03.03",
+    "Keterangan": "Pengadaan Pegawai",
+    "Uraian": "Prajabatan"
+  },
+  {
+    "No": 9,
+    "Kode": "KP.03.04",
+    "Keterangan": "Pengadaan Pegawai",
+    "Uraian": "Penempatan Pegawai"
+  },
+  {
+    "No": 10,
+    "Kode": "KP.04.01",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Uraian": "Ujian Penyesuaian Ijazah"
+  },
+  {
+    "No": 11,
+    "Kode": "KP.04.02",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Uraian": "Ujian Dinas"
+  },
+  {
+    "No": 12,
+    "Kode": "KP.04.03",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Uraian": "Uji Kompetensi"
+  },
+  {
+    "No": 13,
+    "Kode": "KP.05.01",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Mutasi Nota Pertimbangan Kepala BKN"
+  },
+  {
+    "No": 14,
+    "Kode": "KP.05.02",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Mutasi Kenaikan Pangkat/Gol"
+  },
+  {
+    "No": 15,
+    "Kode": "KP.05.03",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Mutasi Kenaikan Gaji Berkala"
+  },
+  {
+    "No": 16,
+    "Kode": "KP.05.04",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Mutasi Penyesuaian Masa Kerja"
+  },
+  {
+    "No": 17,
+    "Kode": "KP.05.05",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Mutasi Keluarga"
+  },
+  {
+    "No": 18,
+    "Kode": "KP.05.06",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Usul Perubahan Data"
+  },
+  {
+    "No": 19,
+    "Kode": "KP.05.07",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Penyesuaian Tunjangan Kinerja"
+  },
+  {
+    "No": 20,
+    "Kode": "KP.05.08",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Promosi"
+  },
+  {
+    "No": 21,
+    "Kode": "KP.05.09",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Rotasi"
+  },
+  {
+    "No": 22,
+    "Kode": "KP.05.10",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Berkas Baperjakat"
+  },
+  {
+    "No": 23,
+    "Kode": "KP.05.11",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Seleksi Terbuka"
+  },
+  {
+    "No": 24,
+    "Kode": "KP.05.12",
+    "Keterangan": "Mutasi Pegawai",
+    "Uraian": "Alih Tugas"
+  },
+  {
+    "No": 25,
+    "Kode": "KP.06.01",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Uraian": "Pengangkatan Pegawai"
+  },
+  {
+    "No": 26,
+    "Kode": "KP.06.02",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Uraian": "Pemberhentian Pegawai"
+  },
+  {
+    "No": 27,
+    "Kode": "KP.06.03",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Uraian": "Pemberhentian Pegawai tanpa hak pensiun"
+  },
+  {
+    "No": 28,
+    "Kode": "KP.07.01",
+    "Keterangan": "Pendelegasian Wewenang",
+    "Uraian": "Pelaksana Tugas (Plt)"
+  },
+  {
+    "No": 29,
+    "Kode": "KP.07.02",
+    "Keterangan": "Pendelegasian Wewenang",
+    "Uraian": "Pelaksana Harian (Plh)"
+  },
+  {
+    "No": 30,
+    "Kode": "KP.08.01",
+    "Keterangan": "Administrasi Pegawai",
+    "Uraian": "Data/ Keterangan Pegawai"
+  },
+  {
+    "No": 31,
+    "Kode": "KP.08.02",
+    "Keterangan": "Administrasi Pegawai",
+    "Uraian": "Kartu Pegawai"
+  },
+  {
+    "No": 32,
+    "Kode": "KP.08.03",
+    "Keterangan": "Administrasi Pegawai",
+    "Uraian": "Karis/Karsu"
+  },
+  {
+    "No": 33,
+    "Kode": "KP.08.04",
+    "Keterangan": "Administrasi Pegawai",
+    "Uraian": "Kartu Taspen"
+  },
+  {
+    "No": 34,
+    "Kode": "KP.08.05",
+    "Keterangan": "Administrasi Pegawai",
+    "Uraian": "Kartu Askes/ BPJS/ Jamkesmen"
+  },
+  {
+    "No": 35,
+    "Kode": "KP.09.01",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Uraian": "Penilaian Prestasi Kerja"
+  },
+  {
+    "No": 36,
+    "Kode": "KP.09.02",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Uraian": "Pembinaan Mental"
+  },
+  {
+    "No": 37,
+    "Kode": "KP.09.03",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Uraian": "Disiplin Pegawai"
+  },
+  {
+    "No": 38,
+    "Kode": "KP.09.04",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Uraian": "Tanda Jasa/Penghargaan"
+  },
+  {
+    "No": 39,
+    "Kode": "KP.10.01",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsipnal Pengawas Farmasi Makanan"
+  },
+  {
+    "No": 40,
+    "Kode": "KP.10.02",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Peneliti"
+  },
+  {
+    "No": 41,
+    "Kode": "KP.10.03",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Perencana"
+  },
+  {
+    "No": 42,
+    "Kode": "KP.10.04",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Analisis Kebijakan"
+  },
+  {
+    "No": 43,
+    "Kode": "KP.10.05",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Pengadaan Barang dan Jasa"
+  },
+  {
+    "No": 44,
+    "Kode": "KP.10.06",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Arsiparis"
+  },
+  {
+    "No": 45,
+    "Kode": "KP.10.07",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Pranata Komputer"
+  },
+  {
+    "No": 46,
+    "Kode": "KP.10.08",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Analisi Kepegawaian"
+  },
+  {
+    "No": 47,
+    "Kode": "KP.10.09",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Statistik"
+  },
+  {
+    "No": 48,
+    "Kode": "KP.10.10",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Pranata Humas"
+  },
+  {
+    "No": 49,
+    "Kode": "KP.10.11",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Perancang Per - UU"
+  },
+  {
+    "No": 50,
+    "Kode": "KP.10.12",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Auditor"
+  },
+  {
+    "No": 51,
+    "Kode": "KP.10.13",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Auditor Kepegawaian"
+  },
+  {
+    "No": 52,
+    "Kode": "KP.10.14",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Assesor Kepegawaian"
+  },
+  {
+    "No": 53,
+    "Kode": "KP.10.15",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Pustakawan"
+  },
+  {
+    "No": 54,
+    "Kode": "KP.10.16",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Fungsional Penerjemah"
+  },
+  {
+    "No": 55,
+    "Kode": "KP.10.17",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Uraian": "Jabatan Fungsional Widyaiswara dan Lainnya"
+  },
+  {
+    "No": 56,
+    "Kode": "KP.11.01",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Uraian": "Kesehatan"
+  },
+  {
+    "No": 57,
+    "Kode": "KP.11.02",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Uraian": "Cuti"
+  },
+  {
+    "No": 58,
+    "Kode": "KP.11.03",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Uraian": "Rekreasi/ Kesenian/ Olahraga/ HUT/kegiatan keagamaan"
+  },
+  {
+    "No": 59,
+    "Kode": "KP.11.04",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Uraian": "Bantuan Sosial"
+  },
+  {
+    "No": 60,
+    "Kode": "KP.11.05",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Uraian": "Pinjaman Dana dan Perumahan"
+  },
+  {
+    "No": 61,
+    "Kode": "KP.12",
+    "Keterangan": "Perselisihan/Sengketa/Keberatan",
+    "Uraian": "Perselisihan/Sengketa/Keberatan"
+  },
+  {
+    "No": 62,
+    "Kode": "KP.13.01",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Uraian": "KORPRI"
+  },
+  {
+    "No": 63,
+    "Kode": "KP.13.02",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Uraian": "Dharma Wanita"
+  },
+  {
+    "No": 64,
+    "Kode": "KP.13.03",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Uraian": "Perhimpunan Kepedulian Sosial Pegawai Badan POM"
+  },
+  {
+    "No": 65,
+    "Kode": "KP.13.04",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Uraian": "Koperasi"
+  },
+  {
+    "No": 66,
+    "Kode": "KP.13.05",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Uraian": "Lain-Lain"
+  },
+  {
+    "No": 67,
+    "Kode": "KP.14",
+    "Keterangan": "Berkas Perorangan Pegawai",
+    "Uraian": "Berkas Perorangan Pegawai"
+  },
+  {
+    "No": 68,
+    "Kode": "OT.01.01",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Uraian": "Analisis Kelembagaan"
+  },
+  {
+    "No": 69,
+    "Kode": "OT.01.02",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Uraian": "Evaluasi Kelembagaan"
+  },
+  {
+    "No": 70,
+    "Kode": "OT.01.03",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Uraian": "Reformasi Birokrasi"
+  },
+  {
+    "No": 71,
+    "Kode": "OT.02.01",
+    "Keterangan": "Tata Laksana",
+    "Uraian": "Penyusunan Standar/ Pedoman/ Prosedur Kerja/ Petunjuk Pelaksanaan/ Petunjuk Teknis"
+  },
+  {
+    "No": 72,
+    "Kode": "OT.02.02",
+    "Keterangan": "Tata Laksana",
+    "Uraian": "Monitoring dan Evaluasi SOP"
+  },
+  {
+    "No": 73,
+    "Kode": "HK.01",
+    "Keterangan": "Program Legislasi",
+    "Uraian": "Program Legislasi"
+  },
+  {
+    "No": 74,
+    "Kode": "HK.02.01",
+    "Keterangan": "Produk Hukum",
+    "Uraian": "Produk Hukum yang Bersifat Pengaturan"
+  },
+  {
+    "No": 75,
+    "Kode": "HK.02.02",
+    "Keterangan": "Produk Hukum",
+    "Uraian": "Produk Hukum yang Bersifat Penetapan"
+  },
+  {
+    "No": 76,
+    "Kode": "HK.03",
+    "Keterangan": "Dokumentasi Hukum",
+    "Uraian": "Dokumentasi Hukum"
+  },
+  {
+    "No": 77,
+    "Kode": "HK.04.01",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Uraian": "Perkara Perdata"
+  },
+  {
+    "No": 78,
+    "Kode": "HK.04.02",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Uraian": "Perkara Praperadilan"
+  },
+  {
+    "No": 79,
+    "Kode": "HK.04.03",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Uraian": "Perkara Pidana"
+  },
+  {
+    "No": 80,
+    "Kode": "HK.04.04",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Uraian": "Perkara Peradilan Tata Usaha Negara (TUN)"
+  },
+  {
+    "No": 81,
+    "Kode": "HK.05",
+    "Keterangan": "Penanganan Perkara Non Litigasi",
+    "Uraian": "Penanganan Perkara Non Litigasi"
+  },
+  {
+    "No": 82,
+    "Kode": "HK.06.01",
+    "Keterangan": "Pertimbangan Hukum",
+    "Uraian": "Pertimbangan Hukum Permasalahan di Bidang Obat dan \nMakanan"
+  },
+  {
+    "No": 83,
+    "Kode": "HK.06.02",
+    "Keterangan": "Pertimbangan Hukum",
+    "Uraian": "Pertimbangan hukum Kepegawaian"
+  },
+  {
+    "No": 84,
+    "Kode": "HK.07",
+    "Keterangan": "Sosialisasi/ Penyuluhan/ Pembinaan Hukum",
+    "Uraian": "Sosialisasi/ Penyuluhan/ Pembinaan Hukum"
+  },
+  {
+    "No": 85,
+    "Kode": "PR.01.01",
+    "Keterangan": "Kebijakan dan Strategi Pembangunan",
+    "Uraian": "RPJP"
+  },
+  {
+    "No": 86,
+    "Kode": "PR.01.02",
+    "Keterangan": "Kebijakan dan Strategi Pembangunan",
+    "Uraian": "RPJM"
+  },
+  {
+    "No": 87,
+    "Kode": "PR.02.01",
+    "Keterangan": "Program Kerja Tahunan",
+    "Uraian": "Usulan Unit Kerja beserta Data Pendukung"
+  },
+  {
+    "No": 88,
+    "Kode": "PR.02.02",
+    "Keterangan": "Program Kerja Tahunan",
+    "Uraian": "Program Kerja Tahunan Unit Kerja"
+  },
+  {
+    "No": 89,
+    "Kode": "PR.02.03",
+    "Keterangan": "Program Kerja Tahunan",
+    "Uraian": "Program Kerja Tahunan Instansi"
+  },
+  {
+    "No": 90,
+    "Kode": "PR.03.01",
+    "Keterangan": "Perencanaan Anggaran",
+    "Uraian": "RKA-KL/Pagu Indikatif/Sementara"
+  },
+  {
+    "No": 91,
+    "Kode": "PR.03.02",
+    "Keterangan": "Perencanaan Anggaran",
+    "Uraian": "Pagu Definitif"
+  },
+  {
+    "No": 92,
+    "Kode": "PR.03.03",
+    "Keterangan": "Perencanaan Anggaran",
+    "Uraian": "DIPA"
+  },
+  {
+    "No": 93,
+    "Kode": "PR.03.04",
+    "Keterangan": "Perencanaan Anggaran",
+    "Uraian": "Target PNBP"
+  },
+  {
+    "No": 94,
+    "Kode": "PR.03.05",
+    "Keterangan": "Perencanaan Anggaran",
+    "Uraian": "Ketentuan/Peraturan Anggaran"
+  },
+  {
+    "No": 95,
+    "Kode": "PR.04.01",
+    "Keterangan": "Rencana Kinerja Tahunan",
+    "Uraian": "Rencana Kinerja Unit Kerja"
+  },
+  {
+    "No": 96,
+    "Kode": "PR.04.02",
+    "Keterangan": "Rencana Kinerja Tahunan",
+    "Uraian": "Rencana Kinerja Instansi"
+  },
+  {
+    "No": 97,
+    "Kode": "PR.05",
+    "Keterangan": "Perjanjian Kinerja",
+    "Uraian": "Perjanjian Kinerja"
+  },
+  {
+    "No": 98,
+    "Kode": "PR.06.01",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Bulanan"
+  },
+  {
+    "No": 99,
+    "Kode": "PR.06.02",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Triwulanan"
+  },
+  {
+    "No": 100,
+    "Kode": "PR.06.03",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Semesteran"
+  },
+  {
+    "No": 101,
+    "Kode": "PR.06.04",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Tahunan Unit Kerja"
+  },
+  {
+    "No": 102,
+    "Kode": "PR.06.05",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Tahunan Lembaga/Instansi"
+  },
+  {
+    "No": 103,
+    "Kode": "PR.06.06",
+    "Keterangan": "Laporan",
+    "Uraian": "Laporan Insidental"
+  },
+  {
+    "No": 104,
+    "Kode": "PR.07.01",
+    "Keterangan": "Laporan Akuntabilitas Kinerja Instansi Pemerintah",
+    "Uraian": "Laporan Akuntabilitas Unit kerja"
+  },
+  {
+    "No": 105,
+    "Kode": "PR.07.02",
+    "Keterangan": "Laporan Akuntabilitas Kinerja Instansi Pemerintah",
+    "Uraian": "Laporan Akuntabilitas Instansi"
+  },
+  {
+    "No": 106,
+    "Kode": "PR.08.01",
+    "Keterangan": "Evaluasi Kinerja",
+    "Uraian": "Evaluasi Kinerja Unit Kerja"
+  },
+  {
+    "No": 107,
+    "Kode": "PR.08.02",
+    "Keterangan": "Evaluasi Kinerja",
+    "Uraian": "Evaluasi Kinerja BPOM"
+  },
+  {
+    "No": 108,
+    "Kode": "KU.01.01",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Pengajuan UP/TUP"
+  },
+  {
+    "No": 109,
+    "Kode": "KU.01.02",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Pencairan Anggaran"
+  },
+  {
+    "No": 110,
+    "Kode": "KU.01.03",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Pengelolaan Belanja Pegawai"
+  },
+  {
+    "No": 111,
+    "Kode": "KU.01.04",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Keterangan Penghasilan"
+  },
+  {
+    "No": 112,
+    "Kode": "KU.01.05",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "SKPP"
+  },
+  {
+    "No": 113,
+    "Kode": "KU.01.06",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Laporan Arus Kas"
+  },
+  {
+    "No": 114,
+    "Kode": "KU.01.07",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Uraian": "Data Rekening Bendahara"
+  },
+  {
+    "No": 115,
+    "Kode": "KU.02.01",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Perbendaharaan"
+  },
+  {
+    "No": 116,
+    "Kode": "KU.02.02",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "KP4 (Kartu Pengawas Pembayaran Penghasilan Pegawai)"
+  },
+  {
+    "No": 117,
+    "Kode": "KU.02.03",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Pajak"
+  },
+  {
+    "No": 118,
+    "Kode": "KU.02.04",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Penerimaan Non Pajak"
+  },
+  {
+    "No": 119,
+    "Kode": "KU.02.05",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Pengembalian Belanja"
+  },
+  {
+    "No": 120,
+    "Kode": "KU.02.06",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Laporan Pertanggungjawaban Bendahara"
+  },
+  {
+    "No": 121,
+    "Kode": "KU.02.07",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Berita Acara Pemeriksaan Kas"
+  },
+  {
+    "No": 122,
+    "Kode": "KU.02.08",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Uraian": "Verifikasi Anggaran"
+  },
+  {
+    "No": 123,
+    "Kode": "KU.03.01",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Kesanggupan Negara Donor"
+  },
+  {
+    "No": 124,
+    "Kode": "KU.03.02",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Nota Kesepahaman (MoU)"
+  },
+  {
+    "No": 125,
+    "Kode": "KU.03.03",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Loan Agreement PHLN KS"
+  },
+  {
+    "No": 126,
+    "Kode": "KU.03.04",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Alokasi dan Relokasi"
+  },
+  {
+    "No": 127,
+    "Kode": "KU.03.05",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Realisasi Pencairan Dana BLN"
+  },
+  {
+    "No": 128,
+    "Kode": "KU.03.06",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Replenishment"
+  },
+  {
+    "No": 129,
+    "Kode": "KU.03.07",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Staf Apparaisal Report"
+  },
+  {
+    "No": 130,
+    "Kode": "KU.03.08",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Report/Laporan"
+  },
+  {
+    "No": 131,
+    "Kode": "KU.03.09",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Uraian": "Ketentuan/Peraturan Pinjam Luar Negeri (Pindah Bag. Hukum)"
+  },
+  {
+    "No": 132,
+    "Kode": "KU.04.01",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Kebijakan SAI"
+  },
+  {
+    "No": 133,
+    "Kode": "KU.04.02",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Berita Acara Rekonsilasi"
+  },
+  {
+    "No": 134,
+    "Kode": "KU.04.03",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Daftar Transaksi"
+  },
+  {
+    "No": 135,
+    "Kode": "KU.04.04",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Laporan Realisasi Bulanan SAI"
+  },
+  {
+    "No": 136,
+    "Kode": "KU.04.05",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Laporan Realisasi Triwulanan SAI"
+  },
+  {
+    "No": 137,
+    "Kode": "KU.04.06",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Uraian": "Laporan Keuangan"
+  },
+  {
+    "No": 138,
+    "Kode": "KS.01.01",
+    "Keterangan": "Kerja Sama Dalam Negeri",
+    "Uraian": "Antar Instansi Pemerintah"
+  },
+  {
+    "No": 139,
+    "Kode": "KS.01.02",
+    "Keterangan": "Kerja Sama Dalam Negeri",
+    "Uraian": "Organisasi Non Pemerintah"
+  },
+  {
+    "No": 140,
+    "Kode": "KS.02.01",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Uraian": "Bilateral"
+  },
+  {
+    "No": 141,
+    "Kode": "KS.02.02",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Uraian": "Multilateral"
+  },
+  {
+    "No": 142,
+    "Kode": "KS.02.03",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Uraian": "Regional"
+  },
+  {
+    "No": 143,
+    "Kode": "KS.02.04",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Uraian": "Organisasi Internasional"
+  },
+  {
+    "No": 144,
+    "Kode": "HM.01",
+    "Keterangan": "Kehumasan",
+    "Uraian": "Kehumasan"
+  },
+  {
+    "No": 145,
+    "Kode": "HM.02",
+    "Keterangan": "Dengar Pendapat/ Hearing DPR",
+    "Uraian": "Dengar Pendapat/ Hearing DPR"
+  },
+  {
+    "No": 146,
+    "Kode": "HM.03.01",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Uraian": "Lembaga Negara"
+  },
+  {
+    "No": 147,
+    "Kode": "HM.03.02",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Uraian": "Perusahaan"
+  },
+  {
+    "No": 148,
+    "Kode": "HM.03.03",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Uraian": "Organisasi Kemasyarakatan"
+  },
+  {
+    "No": 149,
+    "Kode": "HM.03.04",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Uraian": "Perguruan Tinggi/Sekolah"
+  },
+  {
+    "No": 150,
+    "Kode": "HM.03.05",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Uraian": "Bakohumas"
+  },
+  {
+    "No": 151,
+    "Kode": "HM.04.01",
+    "Keterangan": "Keprotokolan",
+    "Uraian": "Upacara/Acara Kedinasan"
+  },
+  {
+    "No": 152,
+    "Kode": "HM.04.02",
+    "Keterangan": "Keprotokolan",
+    "Uraian": "Kunjungan Dinas Pimpinan Lembaga"
+  },
+  {
+    "No": 153,
+    "Kode": "HM.04.03",
+    "Keterangan": "Keprotokolan",
+    "Uraian": "Agenda Pimpinan"
+  },
+  {
+    "No": 154,
+    "Kode": "HM.05",
+    "Keterangan": "Penyiapan Dokumen Substransi Teknis Pimpinan",
+    "Uraian": "Penyiapan Dokumen Substransi Teknis Pimpinan"
+  },
+  {
+    "No": 155,
+    "Kode": "HM.06",
+    "Keterangan": "Dokumentasi dan Penerbitan",
+    "Uraian": "Dokumentasi dan Penerbitan"
+  },
+  {
+    "No": 156,
+    "Kode": "HM.07",
+    "Keterangan": "Pameran/Sayembara/Lomba, Festival, Pembuatan\nSpanduk, dan Iklan",
+    "Uraian": "Pameran/Sayembara/Lomba, Festival, Pembuatan Spanduk, dan Iklan"
+  },
+  {
+    "No": 157,
+    "Kode": "HM.08",
+    "Keterangan": "Penghargaan/Tanda Kenang-kenangan",
+    "Uraian": "Penghargaan/Tanda Kenang-kenangan"
+  },
+  {
+    "No": 158,
+    "Kode": "HM.09",
+    "Keterangan": "Pemberian Ucapan",
+    "Uraian": "Pemberian Ucapan"
+  },
+  {
+    "No": 159,
+    "Kode": "HM.10",
+    "Keterangan": "Pengelolaan Web Site",
+    "Uraian": "Pengelolaan Web Site"
+  },
+  {
+    "No": 160,
+    "Kode": "HM.11.01",
+    "Keterangan": "Layanan Kehumasan",
+    "Uraian": "Layanan Pengaduan Masyarakat"
+  },
+  {
+    "No": 161,
+    "Kode": "HM.11.02",
+    "Keterangan": "Layanan Kehumasan",
+    "Uraian": "Layanan Komunikasi Informasi Edukasi"
+  },
+  {
+    "No": 162,
+    "Kode": "PL.01.01",
+    "Keterangan": "Perencanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Analisa Kebutuhan"
+  },
+  {
+    "No": 163,
+    "Kode": "PL.01.02",
+    "Keterangan": "Perencanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Daftar Penyedia Barang dan Jasa"
+  },
+  {
+    "No": 164,
+    "Kode": "PL.02.01",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Pengadaan Langsung"
+  },
+  {
+    "No": 165,
+    "Kode": "PL.02.02",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Lelang Sederhana"
+  },
+  {
+    "No": 166,
+    "Kode": "PL.02.03",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Lelang Umum"
+  },
+  {
+    "No": 167,
+    "Kode": "PL.02.04",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Lelang Cepat"
+  },
+  {
+    "No": 168,
+    "Kode": "PL.02.05",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Penunjukan Langsung"
+  },
+  {
+    "No": 169,
+    "Kode": "PL.02.06",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Swakelola"
+  },
+  {
+    "No": 170,
+    "Kode": "PL.02.07",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Uraian": "Sayembara"
+  },
+  {
+    "No": 171,
+    "Kode": "PL.03.01",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Penatausahaan Barang Milik Negara (BMN)"
+  },
+  {
+    "No": 172,
+    "Kode": "PL.03.02",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "nventarisasi Barang Milik Negara (BMN)"
+  },
+  {
+    "No": 173,
+    "Kode": "PL.03.03",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pendistribusian"
+  },
+  {
+    "No": 174,
+    "Kode": "PL.03.04",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Penetapan Status penggunaan BMN"
+  },
+  {
+    "No": 175,
+    "Kode": "PL.03.05",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pemeliharaan BMN"
+  },
+  {
+    "No": 176,
+    "Kode": "PL.03.06",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pemanfaatan BMN"
+  },
+  {
+    "No": 177,
+    "Kode": "PL.03.07",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pemindahtanganan"
+  },
+  {
+    "No": 178,
+    "Kode": "PL.03.08",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Penyusutan"
+  },
+  {
+    "No": 179,
+    "Kode": "PL.03.09",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Penghapusan BMN"
+  },
+  {
+    "No": 180,
+    "Kode": "PL.03.10",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pelaporan BMN"
+  },
+  {
+    "No": 181,
+    "Kode": "PL.03.11",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Uraian": "Pembinaan/Pengendalian/Pengawasan"
+  },
+  {
+    "No": 182,
+    "Kode": "RT.01",
+    "Keterangan": "Kerumahtanggaan",
+    "Uraian": "Telekomunikasi"
+  },
+  {
+    "No": 183,
+    "Kode": "RT.02.01",
+    "Keterangan": "Perjalanan Dinas",
+    "Uraian": "Perjalanan dalam Negeri"
+  },
+  {
+    "No": 184,
+    "Kode": "RT.02.02",
+    "Keterangan": "Perjalanan Dinas",
+    "Uraian": "Perjalanan Luar Negeri"
+  },
+  {
+    "No": 185,
+    "Kode": "RT.03",
+    "Keterangan": "Penggunaan Fasilitas Kantor",
+    "Uraian": "Penggunaan Fasilitas Kantor"
+  },
+  {
+    "No": 186,
+    "Kode": "RT.04",
+    "Keterangan": "Pengurusan Kendaraan Dinas",
+    "Uraian": "Pengurusan Kendaraan Dinas"
+  },
+  {
+    "No": 187,
+    "Kode": "RT.05",
+    "Keterangan": "Pemeliharaan Gedung dan Bangunan",
+    "Uraian": "Pemeliharaan Gedung dan Bangunan"
+  },
+  {
+    "No": 188,
+    "Kode": "RT.06",
+    "Keterangan": "Renovasi Gedung dan Bangunan",
+    "Uraian": "Renovasi Gedung dan Bangunan"
+  },
+  {
+    "No": 189,
+    "Kode": "RT.07.01",
+    "Keterangan": "Pemeliharaan Fasilitas Kantor",
+    "Uraian": "Jalan dan Lingkungan Kantor"
+  },
+  {
+    "No": 190,
+    "Kode": "RT.07.02",
+    "Keterangan": "Pemeliharaan Fasilitas Kantor",
+    "Uraian": "Alat Elektronik dan jaringan"
+  },
+  {
+    "No": 191,
+    "Kode": "RT.08.01",
+    "Keterangan": "Pengelolaan Lingkungan dan Limbah",
+    "Uraian": "Pengelolaan limbah laboratorium"
+  },
+  {
+    "No": 192,
+    "Kode": "RT.08.02",
+    "Keterangan": "Pengelolaan Lingkungan dan Limbah",
+    "Uraian": "Pengelolaan K3"
+  },
+  {
+    "No": 193,
+    "Kode": "RT.09",
+    "Keterangan": "Ketertiban dan Keamanan",
+    "Uraian": "Ketertiban dan Keamanan"
+  },
+  {
+    "No": 194,
+    "Kode": "KA.01.01",
+    "Keterangan": "Administrasi Persuratan",
+    "Uraian": "Pengurusan Surat Masuk"
+  },
+  {
+    "No": 195,
+    "Kode": "KA.01.02",
+    "Keterangan": "Administrasi Persuratan",
+    "Uraian": "Pengurusan Surat Keluar"
+  },
+  {
+    "No": 196,
+    "Kode": "KA.02",
+    "Keterangan": "Penyusunan Sistem",
+    "Uraian": "Penyusunan Sistem"
+  },
+  {
+    "No": 197,
+    "Kode": "KA.03",
+    "Keterangan": "Pembinaan Kearsipan",
+    "Uraian": "Pembinaan Kearsipan"
+  },
+  {
+    "No": 198,
+    "Kode": "KA.04.01",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Uraian": "Penataan Arsip"
+  },
+  {
+    "No": 199,
+    "Kode": "KA.04.02",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Uraian": "Pemindahan Arsip"
+  },
+  {
+    "No": 200,
+    "Kode": "KA.04.03",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Uraian": "Pemusnahan Arsip"
+  },
+  {
+    "No": 201,
+    "Kode": "KA.04.04",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Uraian": "Penyerahan Arsip"
+  },
+  {
+    "No": 202,
+    "Kode": "KA.05",
+    "Keterangan": "Persetujuan Jadwal Retensi Arsip",
+    "Uraian": "Persetujuan Jadwal Retensi Arsip"
+  },
+  {
+    "No": 203,
+    "Kode": "KA.06",
+    "Keterangan": "Layanan Kearsipan",
+    "Uraian": "Layanan Kearsipan"
+  },
+  {
+    "No": 204,
+    "Kode": "PS.01.01",
+    "Keterangan": "Pengadaan Perpustakaan",
+    "Uraian": "Pengadaan Bahan Pustaka"
+  },
+  {
+    "No": 205,
+    "Kode": "PS.01.02",
+    "Keterangan": "Pengadaan Perpustakaan",
+    "Uraian": "Pengadaan Penunjang Perpustakaan"
+  },
+  {
+    "No": 206,
+    "Kode": "PS.02",
+    "Keterangan": "Perpustakaan",
+    "Uraian": "Sosialisasi Perpustakaan"
+  },
+  {
+    "No": 207,
+    "Kode": "PS.03",
+    "Keterangan": "Perpustakaan",
+    "Uraian": "Pengurusan ISBN/ISSN"
+  },
+  {
+    "No": 208,
+    "Kode": "PS.04",
+    "Keterangan": "Perpustakaan",
+    "Uraian": "Pengelolaan Bahan Pustaka"
+  },
+  {
+    "No": 209,
+    "Kode": "PS.05",
+    "Keterangan": "Perpustakaan",
+    "Uraian": "Layanan Pustaka"
+  },
+  {
+    "No": 210,
+    "Kode": "TI.01.01",
+    "Keterangan": "Teknologi dan Informasi Obat dan Makanan",
+    "Uraian": "Master Plan TIK"
+  },
+  {
+    "No": 211,
+    "Kode": "TI.01.02",
+    "Keterangan": "Teknologi dan Informasi Obat dan Makanan",
+    "Uraian": "Kebijakan TIK"
+  },
+  {
+    "No": 212,
+    "Kode": "TI.02.01",
+    "Keterangan": "Tata Kelola Data",
+    "Uraian": "SK Organisasi Tata Kelola Data"
+  },
+  {
+    "No": 213,
+    "Kode": "TI.02.02",
+    "Keterangan": "Tata Kelola Data",
+    "Uraian": "Kebijakan Standar Data"
+  },
+  {
+    "No": 214,
+    "Kode": "TI.02.03",
+    "Keterangan": "Tata Kelola Data",
+    "Uraian": "Penyampaian Hasil Indeks Kualitas Data"
+  },
+  {
+    "No": 215,
+    "Kode": "TI.02.04",
+    "Keterangan": "Tata Kelola Data",
+    "Uraian": "Kamus Data"
+  },
+  {
+    "No": 216,
+    "Kode": "TI.02.05",
+    "Keterangan": "Tata Kelola Data",
+    "Uraian": "Permintaan Tampilan Data Pada Dashboard"
+  },
+  {
+    "No": 217,
+    "Kode": "TI.03.01",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Usulan Kebutuhan TIK"
+  },
+  {
+    "No": 218,
+    "Kode": "TI.03.02",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Pemetaan Aplikasi"
+  },
+  {
+    "No": 219,
+    "Kode": "TI.03.03",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Topologo Jaringan TIK"
+  },
+  {
+    "No": 220,
+    "Kode": "TI.03.04",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Aset TIK"
+  },
+  {
+    "No": 221,
+    "Kode": "TI.03.05",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Proses Bisnis Sistem Informasi"
+  },
+  {
+    "No": 222,
+    "Kode": "TI.03.06",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Hubungan Antar Database (ERD)"
+  },
+  {
+    "No": 223,
+    "Kode": "TI.03.07",
+    "Keterangan": "Pengembangan TIK",
+    "Uraian": "Dokumen Uji Coba TIK"
+  },
+  {
+    "No": 224,
+    "Kode": "TI.04",
+    "Keterangan": "Pemeliharaan TIK",
+    "Uraian": "Pemeliharaan TIK"
+  },
+  {
+    "No": 225,
+    "Kode": "TI.05.01",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Uraian": "Dokumen Survei Layanan TIK"
+  },
+  {
+    "No": 226,
+    "Kode": "TI.05.02",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Uraian": "Form Survei"
+  },
+  {
+    "No": 227,
+    "Kode": "TI.05.03",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Uraian": "Laporan Hasil Monev"
+  },
+  {
+    "No": 228,
+    "Kode": "TI.05.04",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Uraian": "Dokumen Monitoring dan Evaluasi Kinerja per Triwulan"
+  },
+  {
+    "No": 229,
+    "Kode": "PB.01.01",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Uraian": "Penyusunan Standar Kompetensi"
+  },
+  {
+    "No": 230,
+    "Kode": "PB.01.02",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Uraian": "Penyusunan Kurikulum Diklat"
+  },
+  {
+    "No": 231,
+    "Kode": "PB.01.03",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Uraian": "Penilaian Kompetensi Teknis"
+  },
+  {
+    "No": 232,
+    "Kode": "PB.01.04",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Uraian": "Penilaian Kompetensi Manajerial"
+  },
+  {
+    "No": 233,
+    "Kode": "PB.01.05",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Uraian": "Ujian Dinas dan Ujian Kenaikan Pangkat"
+  },
+  {
+    "No": 234,
+    "Kode": "PB.02.01",
+    "Keterangan": "Perencanaan dan Penyelenggaraan Pendidikan dan \nPelatihan SDM",
+    "Uraian": "Penyelenggaraan Pendidikan dan Pelatihan"
+  },
+  {
+    "No": 235,
+    "Kode": "PB.02.02",
+    "Keterangan": "Perencanaan dan Penyelenggaraan Pendidikan dan \nPelatihan SDM",
+    "Uraian": "Evaluasi Pelatihan"
+  },
+  {
+    "No": 236,
+    "Kode": "PI.01.01",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Uraian": "Program Kerja Pengawasan Tahunan (PKPT)"
+  },
+  {
+    "No": 237,
+    "Kode": "PI.01.02",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Uraian": "Rencana Kerja Pengawasan Tahunan (RKPT)"
+  },
+  {
+    "No": 238,
+    "Kode": "PI.01.03",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Uraian": "Rencana Induk Pengawasan (RIP)"
+  },
+  {
+    "No": 239,
+    "Kode": "PI.02.01",
+    "Keterangan": "Audit",
+    "Uraian": "Audit Kinerja"
+  },
+  {
+    "No": 240,
+    "Kode": "PI.02.02",
+    "Keterangan": "Audit",
+    "Uraian": "Audit terhadap aspek keuangan tertentu"
+  },
+  {
+    "No": 241,
+    "Kode": "PI.02.03",
+    "Keterangan": "Audit",
+    "Uraian": "Audit denagn tujuan tertentu"
+  },
+  {
+    "No": 242,
+    "Kode": "PI.02.04",
+    "Keterangan": "Audit",
+    "Uraian": "Audit internal QMS ISO 9001:2015"
+  },
+  {
+    "No": 243,
+    "Kode": "PI.03.01",
+    "Keterangan": "Reviu",
+    "Uraian": "Reviu Laporan Keuangan"
+  },
+  {
+    "No": 244,
+    "Kode": "PI.03.02",
+    "Keterangan": "Reviu",
+    "Uraian": "Reviu RKA-K/L"
+  },
+  {
+    "No": 245,
+    "Kode": "PI.03.03",
+    "Keterangan": "Reviu",
+    "Uraian": "Reviu RKBMN"
+  },
+  {
+    "No": 246,
+    "Kode": "PI.04",
+    "Keterangan": "Evaluasi AKIP",
+    "Uraian": "Evaluasi AKIP"
+  },
+  {
+    "No": 247,
+    "Kode": "PI.05",
+    "Keterangan": "Pemantauan Tindak Lanjut Hasil Pengawasan Intern",
+    "Uraian": "Pemantauan Tindak Lanjut Hasil Pengawasan Intern"
+  },
+  {
+    "No": 248,
+    "Kode": "PI.06.01",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Reformasi Birokrasi"
+  },
+  {
+    "No": 249,
+    "Kode": "PI.06.02",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Gratidikasi"
+  },
+  {
+    "No": 250,
+    "Kode": "PI.06.03",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Benturan Kepentingan"
+  },
+  {
+    "No": 251,
+    "Kode": "PI.06.04",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Pengaduan Masyarakat"
+  },
+  {
+    "No": 252,
+    "Kode": "PI.06.05",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Whistleblowing System"
+  },
+  {
+    "No": 253,
+    "Kode": "PI.06.06",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Zona Intergritas Menuju WBBM"
+  },
+  {
+    "No": 254,
+    "Kode": "PI.06.07",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Sistem Pengendalian Intern Pemerintah"
+  },
+  {
+    "No": 255,
+    "Kode": "PI.06.08",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Kapabilitas APIP"
+  },
+  {
+    "No": 256,
+    "Kode": "PI.06.09",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Laporan LHKPN/LHKASN"
+  },
+  {
+    "No": 257,
+    "Kode": "PI.06.10",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Konsultasi"
+  },
+  {
+    "No": 258,
+    "Kode": "PI.06.11",
+    "Keterangan": "Pengawasan Lainnya",
+    "Uraian": "Bimtek"
+  },
+  {
+    "No": 259,
+    "Kode": "RK.01",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Uraian": "Penyusunan Rencana Induk"
+  },
+  {
+    "No": 260,
+    "Kode": "RK.02",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Uraian": "Pelaksanaan Riset dan Kajian"
+  },
+  {
+    "No": 261,
+    "Kode": "RK.03",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Uraian": "Monitoring dan Evaluasi SOP"
+  },
+  {
+    "No": 262,
+    "Kode": "RK.04",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Uraian": "Diseminasi"
+  },
+  {
+    "No": 263,
+    "Kode": "SD.01.01",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengumpulan Data dan Pengkajian Pustaka"
+  },
+  {
+    "No": 264,
+    "Kode": "SD.01.02",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Penyusunan Rancangan Awal"
+  },
+  {
+    "No": 265,
+    "Kode": "SD.01.03",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pembahasan dengan Stakeholder"
+  },
+  {
+    "No": 266,
+    "Kode": "SD.01.04",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Konsultasi Publik"
+  },
+  {
+    "No": 267,
+    "Kode": "SD.01.05",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Finalisasi Rancangan"
+  },
+  {
+    "No": 268,
+    "Kode": "SD.01.06",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Persetujuan Rancangan"
+  },
+  {
+    "No": 269,
+    "Kode": "SD.01.07",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengkajian Obat, Narkotika, Psikotropika, Prekursor, dan Zat Adiktif"
+  },
+  {
+    "No": 270,
+    "Kode": "SD.01.08",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Harmonisasi Standar"
+  },
+  {
+    "No": 271,
+    "Kode": "SD.02.01",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Pengumpulan Data dan Pengkajian Pustaka"
+  },
+  {
+    "No": 272,
+    "Kode": "SD.02.02",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Penyusunan Rancangan Awal"
+  },
+  {
+    "No": 273,
+    "Kode": "SD.02.03",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Pembahasan dengan Stakeholder"
+  },
+  {
+    "No": 274,
+    "Kode": "SD.02.04",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Konsultasi Publik"
+  },
+  {
+    "No": 275,
+    "Kode": "SD.02.05",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Finalisasi Rancangan"
+  },
+  {
+    "No": 276,
+    "Kode": "SD.02.06",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Persetujuan Rancangan"
+  },
+  {
+    "No": 277,
+    "Kode": "SD.02.07",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Pengkajian Keamanan Mutu dan Manfaat OT SK KOS"
+  },
+  {
+    "No": 278,
+    "Kode": "SD.02.08",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Harmonisasi Standar"
+  },
+  {
+    "No": 279,
+    "Kode": "SD.02.09",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Uraian": "Monitoring/Evaluasi Implementasi/Regulatory Impact Assestment (RIA)"
+  },
+  {
+    "No": 280,
+    "Kode": "SD.03.01",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Pengumpulan Data dan Pengkajian Pustaka"
+  },
+  {
+    "No": 281,
+    "Kode": "SD.03.02",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Penyusunan Rancangan Awal"
+  },
+  {
+    "No": 282,
+    "Kode": "SD.03.03",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Pembahasan dengan Stakeholder"
+  },
+  {
+    "No": 283,
+    "Kode": "SD.03.04",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Konsultasi Publik"
+  },
+  {
+    "No": 284,
+    "Kode": "SD.03.05",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Finalisasi Rancangan"
+  },
+  {
+    "No": 285,
+    "Kode": "SD.03.06",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Persetujuan Rancangan"
+  },
+  {
+    "No": 286,
+    "Kode": "SD.03.07",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Pengkajian Keamanan, Mutu Gizi, dan Pangan Olahan"
+  },
+  {
+    "No": 287,
+    "Kode": "SD.03.08",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Pengkajian Keamanan, Mutu, Gizi, dan Pangan Olahan Permintaan Pelaku Usaha"
+  },
+  {
+    "No": 288,
+    "Kode": "SD.03.09",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Uraian": "Harmonisasi Standar"
+  },
+  {
+    "No": 289,
+    "Kode": "RG.01.01",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Pra Registrasi"
+  },
+  {
+    "No": 290,
+    "Kode": "RG.01.02",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Proses Evaluasi Registrasi Obat Baru"
+  },
+  {
+    "No": 291,
+    "Kode": "RG.01.03",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Proses Evaluasi Registrasi Obat Generik"
+  },
+  {
+    "No": 292,
+    "Kode": "RG.01.04",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Proses Uji PBE"
+  },
+  {
+    "No": 293,
+    "Kode": "RG.01.05",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Persetujuan Nomor Ijin Edar"
+  },
+  {
+    "No": 294,
+    "Kode": "RG.01.06",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Pengembalian NIE"
+  },
+  {
+    "No": 295,
+    "Kode": "RG.01.07",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Certificate of Pharmaceutical Product (CPP)"
+  },
+  {
+    "No": 296,
+    "Kode": "RG.01.08",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Persetujuan Uji Klinik"
+  },
+  {
+    "No": 297,
+    "Kode": "RG.01.09",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Persetujuan Pelaksanaan Uji Klinik dan Obat Pengembangan Baru (OPB)"
+  },
+  {
+    "No": 298,
+    "Kode": "RG.01.10",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Persetujuan Pemasukan Obat Jalur Khusus (Special Access Scheme)"
+  },
+  {
+    "No": 299,
+    "Kode": "RG.01.11",
+    "Keterangan": "Registrasi Obat",
+    "Uraian": "Kajian Khusus Kasus Obat Tertentu"
+  },
+  {
+    "No": 300,
+    "Kode": "RG.02.01.01",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Penolakan Registrasi"
+  },
+  {
+    "No": 301,
+    "Kode": "RG.02.01.02",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Penerimaan Registrasi"
+  },
+  {
+    "No": 302,
+    "Kode": "RG.02.02",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Registrasi OTSK"
+  },
+  {
+    "No": 303,
+    "Kode": "RG.02.03",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Notifikasi Kosmetik"
+  },
+  {
+    "No": 304,
+    "Kode": "RG.02.04",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Pencabutan Nomor Ijin Edar OTSK dan Nomor Notifikasi KOS"
+  },
+  {
+    "No": 305,
+    "Kode": "RG.02.05",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Permohonan Protokol Uji Praklinik/Uji Klinik"
+  },
+  {
+    "No": 306,
+    "Kode": "RG.02.06",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Penilaian Dokumen Informasi Produk Kosmetik"
+  },
+  {
+    "No": 307,
+    "Kode": "RG.02.07",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Uraian": "Permohonan Rancangan Iklan OTSK"
+  },
+  {
+    "No": 308,
+    "Kode": "RG.03.01",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Permohonan Registrasi Baru"
+  },
+  {
+    "No": 309,
+    "Kode": "RG.03.02",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Variasi Mayor"
+  },
+  {
+    "No": 310,
+    "Kode": "RG.03.03",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Variasi Minor"
+  },
+  {
+    "No": 311,
+    "Kode": "RG.03.04",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Registrasi Ulang"
+  },
+  {
+    "No": 312,
+    "Kode": "RG.03.05",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Pendaftaran Iklan Pangan"
+  },
+  {
+    "No": 313,
+    "Kode": "RG.03.06",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Registrasi Akun Perusahaan"
+  },
+  {
+    "No": 314,
+    "Kode": "RG.03.07",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Uraian": "Pencabutan"
+  },
+  {
+    "No": 315,
+    "Kode": "PW.01.01",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pelaksanaan Inspeksi Sarana Produksi"
+  },
+  {
+    "No": 316,
+    "Kode": "PW.01.02",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Asistensi Regulator dan Supervisi"
+  },
+  {
+    "No": 317,
+    "Kode": "PW.01.03",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Perizinan Sarana Produksi"
+  },
+  {
+    "No": 318,
+    "Kode": "PW.01.04",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Penilaian Pemenuhan CPOB terhadap Sarana Produksi Obat, NPP, \nBahan Baku Obat, Sarana Khusus dan Fasilitas Obat Impor"
+  },
+  {
+    "No": 319,
+    "Kode": "PW.01.05",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pelaksanaan Kegaiatan Bea Masuk Ditanggung Pemerintah \n(BMDTP)"
+  },
+  {
+    "No": 320,
+    "Kode": "PW.01.06",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Verifikasi BMDTP ke Sarana"
+  },
+  {
+    "No": 321,
+    "Kode": "PW.01.07",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pemeriksaan Balai"
+  },
+  {
+    "No": 322,
+    "Kode": "PW.01.08",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pemeriksaan Sarana Distribusi ONP dan BO oleh Pusat"
+  },
+  {
+    "No": 323,
+    "Kode": "PW.01.09",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pemeriksaan Kasus"
+  },
+  {
+    "No": 324,
+    "Kode": "PW.01.10",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Tindak Lanjut Inspeksi"
+  },
+  {
+    "No": 325,
+    "Kode": "PW.01.11",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Penilaian/Sertifikasi CDOB"
+  },
+  {
+    "No": 326,
+    "Kode": "PW.01.12",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Sarana Pelayanan Obat Narkotika, Psikotropika dan \nPrekursor"
+  },
+  {
+    "No": 327,
+    "Kode": "PW.01.13",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Keamanan Obat, Narkotika, Psikotropika, Prekursor"
+  },
+  {
+    "No": 328,
+    "Kode": "PW.01.14",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Mutu Obat, Narkotika, Psikotropika, Prekursor"
+  },
+  {
+    "No": 329,
+    "Kode": "PW.01.15",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Promosi dan Informasi Obat, Narkotika, Psikotropika, \nPrekursor"
+  },
+  {
+    "No": 330,
+    "Kode": "PW.01.16",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Ekspor Impor Obat, Narkotika, Psikotropika, Prekursor"
+  },
+  {
+    "No": 331,
+    "Kode": "PW.01.17",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat \nAdiktif",
+    "Uraian": "Pengawasan Produk Tembakau"
+  },
+  {
+    "No": 332,
+    "Kode": "PW.02.01",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Penilaian Sarana"
+  },
+  {
+    "No": 333,
+    "Kode": "PW.02.02",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Inspeksi sarana"
+  },
+  {
+    "No": 334,
+    "Kode": "PW.02.03",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Pengawasan Informasi Label/Kemasan"
+  },
+  {
+    "No": 335,
+    "Kode": "PW.02.04",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Pengawasan Promosi"
+  },
+  {
+    "No": 336,
+    "Kode": "PW.02.05",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Pengawasan Keamanan"
+  },
+  {
+    "No": 337,
+    "Kode": "PW.02.06",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Uraian": "Pengawasan Mutu Ekspor Impor"
+  },
+  {
+    "No": 338,
+    "Kode": "PW.03.01",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Penilaian Sarana"
+  },
+  {
+    "No": 339,
+    "Kode": "PW.03.02",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Inspeksi sarana"
+  },
+  {
+    "No": 340,
+    "Kode": "PW.03.03",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Target Pengawasan Informasi dan Promosi BB/BPOM"
+  },
+  {
+    "No": 341,
+    "Kode": "PW.03.04",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Target Pengawasan Informasi dan Promosi pada Sarana \nProduksi/distribusi Kosmetik"
+  },
+  {
+    "No": 342,
+    "Kode": "PW.03.05",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Evaluasi Promosi/Iklan Kosmetik"
+  },
+  {
+    "No": 343,
+    "Kode": "PW.03.06",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Evaluasi Informasi/Label Kosmetik"
+  },
+  {
+    "No": 344,
+    "Kode": "PW.03.07",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Verifikasi Laporan Bulanan pengawasan promosi/iklan dan \ninformasi/label kosmetik"
+  },
+  {
+    "No": 345,
+    "Kode": "PW.03.08",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Tindak Lanjut Hasil Pengawasan Promosi/Iklan dan \nInformasi/Label Kosmetik"
+  },
+  {
+    "No": 346,
+    "Kode": "PW.03.09",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Pemantauan dan Pendataan TLHP Promosi/Iklan dan \nInformasi/Label Kosmetik"
+  },
+  {
+    "No": 347,
+    "Kode": "PW.03.10",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Pengawasan Efek Samping dan Mutu Kandungan Produk"
+  },
+  {
+    "No": 348,
+    "Kode": "PW.03.11",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Pengawasan Mutu Ekspor Impor"
+  },
+  {
+    "No": 349,
+    "Kode": "PW.03.12",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Uraian": "Sampling dan Pengujian Kosmetik"
+  },
+  {
+    "No": 350,
+    "Kode": "PW.04.01",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Sarana Produksi"
+  },
+  {
+    "No": 351,
+    "Kode": "PW.04.02",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Sarana Produksi"
+  },
+  {
+    "No": 352,
+    "Kode": "PW.04.03",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Produk Pangan"
+  },
+  {
+    "No": 353,
+    "Kode": "PW.04.04",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Label Pangan"
+  },
+  {
+    "No": 354,
+    "Kode": "PW.04.05",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Iklan Pangan"
+  },
+  {
+    "No": 355,
+    "Kode": "PW.04.06",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Ekspor dan Impor Pangan"
+  },
+  {
+    "No": 356,
+    "Kode": "PW.04.07",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Kemasan Pangan"
+  },
+  {
+    "No": 357,
+    "Kode": "PW.04.08",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Penanganan Kasus Pangan"
+  },
+  {
+    "No": 358,
+    "Kode": "PW.04.09",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Sertifikasi Pangan"
+  },
+  {
+    "No": 359,
+    "Kode": "PW.04.10",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Uraian": "Pengawasan Bahan Berbahaya"
+  },
+  {
+    "No": 360,
+    "Kode": "PM.01.01",
+    "Keterangan": "Advokasi Pangan",
+    "Uraian": "Advokasi Pemerintah Daerah"
+  },
+  {
+    "No": 361,
+    "Kode": "PM.01.02",
+    "Keterangan": "Advokasi Pangan",
+    "Uraian": "Advokasi Lintas Sektor"
+  },
+  {
+    "No": 362,
+    "Kode": "PM.01.03",
+    "Keterangan": "Advokasi Pangan",
+    "Uraian": "Advokasi Komunitas Pendidikan"
+  },
+  {
+    "No": 363,
+    "Kode": "PM.01.04",
+    "Keterangan": "Advokasi Pangan",
+    "Uraian": "Advokasi Ormas"
+  },
+  {
+    "No": 364,
+    "Kode": "PM.01.05",
+    "Keterangan": "Advokasi Pangan",
+    "Uraian": "Advokasi Asosiasi"
+  },
+  {
+    "No": 365,
+    "Kode": "PM.02.01",
+    "Keterangan": "Asistensi Regulasi",
+    "Uraian": "Laporan Asistensi"
+  },
+  {
+    "No": 366,
+    "Kode": "PM.02.02",
+    "Keterangan": "Asistensi Regulasi",
+    "Uraian": "Laporan Hasil Kajian"
+  },
+  {
+    "No": 367,
+    "Kode": "PM.02.03",
+    "Keterangan": "Asistensi Regulasi",
+    "Uraian": "SPPIRT (Sertifikat Penyuluhan Industri Rumah Tangga)"
+  },
+  {
+    "No": 368,
+    "Kode": "PM.03.01",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Uraian": "Laporan Pendampingan"
+  },
+  {
+    "No": 369,
+    "Kode": "PM.03.02",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Uraian": "Laporan Pelatihan TOT"
+  },
+  {
+    "No": 370,
+    "Kode": "PM.03.03",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Uraian": "Database Fasilitator"
+  },
+  {
+    "No": 371,
+    "Kode": "PM.03.04",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Uraian": "Hasil Uji Sampling"
+  },
+  {
+    "No": 372,
+    "Kode": "PM.04.01",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Uraian": "Laporan Pendampingan"
+  },
+  {
+    "No": 373,
+    "Kode": "PM.04.02",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Uraian": "Laporan Pelatihan TOT"
+  },
+  {
+    "No": 374,
+    "Kode": "PM.04.03",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Uraian": "Database Fasilitator/Kader"
+  },
+  {
+    "No": 375,
+    "Kode": "PM.04.04",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Uraian": "Hasil Uji Sampling"
+  },
+  {
+    "No": 376,
+    "Kode": "PM.05.01",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Uraian": "Bimtek dan Pelatihan"
+  },
+  {
+    "No": 377,
+    "Kode": "PM.05.02",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Uraian": "Sosialisasi"
+  },
+  {
+    "No": 378,
+    "Kode": "PM.05.03",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Uraian": "Produk Informasi Keamanan Pangan"
+  },
+  {
+    "No": 379,
+    "Kode": "PM.05.04",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Uraian": "Aplikasi Keamanan Pangan"
+  },
+  {
+    "No": 380,
+    "Kode": "PD.01.01",
+    "Keterangan": "Penindakan Pengamanan",
+    "Uraian": "Pencegahan Kejahatan Obat dan Makanan"
+  },
+  {
+    "No": 381,
+    "Kode": "PD.01.02",
+    "Keterangan": "Penindakan Pengamanan",
+    "Uraian": "Penyusunan Peta Rawan Kasus"
+  },
+  {
+    "No": 382,
+    "Kode": "PD.01.03",
+    "Keterangan": "Penindakan Pengamanan",
+    "Uraian": "Operasi Pengamanan"
+  },
+  {
+    "No": 383,
+    "Kode": "PD.02.01",
+    "Keterangan": "Penindakan Intelejen",
+    "Uraian": "Penyusunan Informasi Intelijen Dasar"
+  },
+  {
+    "No": 384,
+    "Kode": "PD.02.02",
+    "Keterangan": "Penindakan Intelejen",
+    "Uraian": "Kegiatan Intelijen"
+  },
+  {
+    "No": 385,
+    "Kode": "PD.02.03",
+    "Keterangan": "Penindakan Intelejen",
+    "Uraian": "Rencana Operasi"
+  },
+  {
+    "No": 386,
+    "Kode": "PD.02.04",
+    "Keterangan": "Penindakan Intelejen",
+    "Uraian": "Operasi Intellijen"
+  },
+  {
+    "No": 387,
+    "Kode": "PD.02.05",
+    "Keterangan": "Penindakan Intelejen",
+    "Uraian": "Analisa dan Perkiraaan Intelijen"
+  },
+  {
+    "No": 388,
+    "Kode": "PD.03.01",
+    "Keterangan": "Penindakan Penyidikan",
+    "Uraian": "Pendalaman Informasi Tindak Pidana"
+  },
+  {
+    "No": 389,
+    "Kode": "PD.03.02",
+    "Keterangan": "Penindakan Penyidikan",
+    "Uraian": "Operasi Penyidikan"
+  },
+  {
+    "No": 390,
+    "Kode": "PD.03.03",
+    "Keterangan": "Penindakan Penyidikan",
+    "Uraian": "Pembuatan Berkas Perkara"
+  },
+  {
+    "No": 391,
+    "Kode": "PP.01.01",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Uraian": "Kegiatan Pelayanan Pengujian Obat dan Makanan"
+  },
+  {
+    "No": 392,
+    "Kode": "PP.01.02",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Uraian": "Tanggapan Hasil Pengujian BB/BPOM/Uji Absah yang diuji kembali"
+  },
+  {
+    "No": 393,
+    "Kode": "PP.01.03",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Uraian": "Tanggapan Hasil Pengujian BB/BPOM/Uji Absah yang hanya ditanggapi"
+  },
+  {
+    "No": 394,
+    "Kode": "PP.02.01",
+    "Keterangan": "Pengembangan Metode Analisis(Validasi/Verifikasi) dan Uji \nKolaborasi",
+    "Uraian": "Proses Pengembangan (validasi/verifikasi) Metode Analisis"
+  },
+  {
+    "No": 395,
+    "Kode": "PP.02.01",
+    "Keterangan": "Pengembangan Metode Analisis(Validasi/Verifikasi) dan Uji \nKolaborasi",
+    "Uraian": "Metode Analisis"
+  },
+  {
+    "No": 396,
+    "Kode": "PP.03.01",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Uraian": "Pengembangan Baku Pembanding"
+  },
+  {
+    "No": 397,
+    "Kode": "PP.03.02",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Uraian": "Pengelolaan dan Distribusi Baku Pembanding untuk Internal BPOM"
+  },
+  {
+    "No": 398,
+    "Kode": "PP.03.03",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Uraian": "Distribusi baku pembanding untuk eksternal"
+  },
+  {
+    "No": 399,
+    "Kode": "PP.04.01",
+    "Keterangan": "Kalibrasi Peralatan Laboratorium Pengujian",
+    "Uraian": "Kegiatan Kalibrasi di Internal BPOM"
+  },
+  {
+    "No": 400,
+    "Kode": "PP.04.02",
+    "Keterangan": "Kalibrasi Peralatan Laboratorium Pengujian",
+    "Uraian": "Kegiatan Kalibrasi di Eksternal BPOM"
+  },
+  {
+    "No": 401,
+    "Kode": "PP.05.01",
+    "Keterangan": "Penyediaan Hewan Uji/Baku Mikroba",
+    "Uraian": "Kegiatan Pengembangbiakan, Pemeliharaan dan Pengelolaan Hewan Uji Baku Mikroba"
+  },
+  {
+    "No": 402,
+    "Kode": "PP.05.02",
+    "Keterangan": "Penyediaan Hewan Uji/Baku Mikroba",
+    "Uraian": "Kegiatan Pengembangbiakan, Pemeliharaan dan Pengelolaan Hewan Uji Baku Mikroba"
+  },
+  {
+    "No": 403,
+    "Kode": "PP.06",
+    "Keterangan": "Uji Profisiensi/Uji Banding",
+    "Uraian": "Uji Profisiensi/Uji Banding"
+  }
+]
+    
+ }  

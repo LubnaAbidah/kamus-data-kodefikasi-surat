@@ -11,7 +11,7 @@
       <body>  
            <br /><br />  
            <div class="container">  
-                <h1 align="center">Kamus Data Kodefikasi Surat</h3><br />  
+                <h1 align="center">Kamus Data Kodefikasi Surat</h1><br />  
                 <table id="data-table" class="table table-bordered">  
                      <thead>  
                           <tr>   
@@ -62,7 +62,7 @@
                   var table = $('#data-table').DataTable( {
                   orderCellsTop: true,
                   fixedHeader: true,
-                  "ajax" : "mahasiswa.json",  
+                  "ajax" : "kodefikasi_surat.json",  
                   "language" : { 
                               "url":"indonesia.json"
                             },

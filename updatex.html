@@ -129,6 +129,13 @@ function format ( d ) {
 $(document).ready(function() {
     var table = $('#data-table').DataTable( {
         "ajax": "csvjson.json",
+        dom: 'Bfrtip',
+          buttons: [
+              'copyHtml5',
+              'excelHtml5',
+              'csvHtml5',
+              'pdfHtml5'
+          ],
         "columns": [
             {
                 "className":      'details-control',

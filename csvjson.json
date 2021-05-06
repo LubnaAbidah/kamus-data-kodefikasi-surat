@@ -1,4 +1,5 @@
-[
+{  
+      "data"     :     [
   {
     "Kode": "KP.01",
     "Keterangan": "Kepegawaian",
@@ -3627,3 +3628,5 @@
     "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan uji profisiensi/uji banding mulai dari perencanaan, proses pelaksanaan laporan hasil, evaluasi sampai dengan pemberitahuan pengiriman laporan hasil uji profisiensi/ uji banding ke peserta"
   }
 ]
+    
+ } 

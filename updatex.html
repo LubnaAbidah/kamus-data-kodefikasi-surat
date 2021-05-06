@@ -15,6 +15,7 @@
            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>  
            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>  
            <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.6.4/js/buttons.html5.min.js"></script>  
+           <link rel="stylesheet" href="style.css" />
       </head>  
       <body>  
            <div class="container"> 
@@ -73,14 +74,16 @@
                      <thead>  
                           <tr>   
                                <th>Kode</th>  
-                               <th>Keterangan</th>  
+                               <th>Keterangan</th> 
+                               <th>Jenis</th> 
                                <th>Uraian</th>  
                           </tr>  
                      </thead> 
                      <tfoot>  
                           <tr>  
                                <th>Kode</th>  
-                               <th>Keterangan</th>  
+                               <th>Keterangan</th> 
+                               <th>Jenis</th> 
                                <th>Uraian</th>  
                           </tr>  
                      </tfoot>  
@@ -100,36 +103,60 @@
           <!-- Footer -->
            <!-- script -->
            <script>  
-           $(document).ready(function(){  
-            // Setup - add a text input to each footer cell
-              $('#data-table thead tr').clone(true).appendTo( '#data-table thead' );
-              $('#data-table thead tr:eq(1) th').each( function (i) {
-                  var title = $(this).text();
-                  $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
-           
-                  $( 'input', this ).on( 'keyup change', function () {
-                      if ( table.column(i).search() !== this.value ) {
-                          table
-                              .column(i)
-                              .search( this.value )
-                              .draw();
-                      }
-                  } );
-              } );
-                  var table = $('#data-table').DataTable( {
-                  orderCellsTop: true,
-                  fixedHeader: true,
-                  "ajax" : "csvjson.json",  
-                  "language" : { 
-                              "url":"indonesia.json"
-                            },
-                  "columns":     [    
-                       { "data" : "Kode"},  
-                       { "data" : "Keterangan"},
-                       { "data" : "Uraian"}
-                  ]  
-              } );
-           });  
+          /* Formatting function for row details - modify as you need */
+function format ( d ) {
+    // `d` is the original data object for the row
+    return '<table cellpadding="0" cellspacing="0" border="1" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>Full name:</td>'+
+            '<td>'+d.Aktif+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Extension number:</td>'+
+            '<td>'+d.Inaktif+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Extension number:</td>'+
+            '<td>'+d.Penyusutan+'</td>'+
+        '</tr>'+
+    '</table>';
+}
+ 
+$(document).ready(function() {
+    var table = $('#data-table').DataTable( {
+        "ajax": "csvjson.json",
+        "columns": [
+            {
+                "className":      'details-control',
+                "orderable":      false,
+                "data":           null,
+                "defaultContent": ''
+            },
+            { "data": "Kode" },
+            { "data": "Keterangan" },
+            { "data": "Jenis" },
+            { "data": "Uraian" }
+        ],
+        "order": [[1, 'asc']]
+    } );
+     
+    // Add event listener for opening and closing details
+    $('#example tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+} );
           </script>   
       </body>  
  </html>  

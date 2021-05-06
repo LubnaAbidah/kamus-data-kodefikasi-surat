@@ -112,15 +112,15 @@ function format ( d ) {
     // `d` is the original data object for the row
     return '<table class="table" cellpadding="0" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
-            '<td>Full name:</td>'+
-            '<td>'+d.Aktif+'</td>'+
+            '<td>Aktif</td>'+
+            '<td>'+d.Aktif+' tahun</td>'+
         '</tr>'+
         '<tr>'+
-            '<td>Extension number:</td>'+
-            '<td>'+d.Inaktif+'</td>'+
+            '<td>Inaktif</td>'+
+            '<td>'+d.Inaktif+' tahun</td>'+
         '</tr>'+
         '<tr>'+
-            '<td>Extension number:</td>'+
+            '<td>Retensi Penyusutan</td>'+
             '<td>'+d.Penyusutan+'</td>'+
         '</tr>'+
     '</table>';

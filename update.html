@@ -69,67 +69,102 @@
                 </tbody>
                </table>
              </div>
-                <table id="data-table" class="table table-bordered">  
-                     <thead>  
-                          <tr>   
-                               <th>Kode</th>  
-                               <th>Keterangan</th>  
-                               <th>Uraian</th>  
-                          </tr>  
-                     </thead> 
-                     <tfoot>  
-                          <tr>  
-                               <th>Kode</th>  
-                               <th>Keterangan</th>  
-                               <th>Uraian</th>  
-                          </tr>  
-                     </tfoot>  
-                </table>  
-           </div> 
+                  <table id="data-table" class="table table-bordered">
+                     <thead>
+                          <tr>
+                               <th></th>
+                               <th>Kode</th>
+                               <th>Keterangan</th>
+                               <th>Jenis</th>
+                               <th>Uraian</th>
+                          </tr>
+                     </thead>
+                     <tfoot>
+                          <tr>
+                               <th></th>
+                               <th>Kode</th>
+                               <th>Keterangan</th>
+                               <th>Jenis</th>
+                               <th>Uraian</th>
+                          </tr>
+                     </tfoot>
+                </table>
+           </div>
 
           <!-- Footer -->
           <footer class="page-footer font-small blue">
 
             <!-- Copyright -->
-            <div class="footer-copyright text-center py-3">© 2020 Copyright:
-              <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+            <div class="footer-copyright text-center py-3">© 2020-2021 Copyright:
+              <a> Loka POM Tulang Bawang </a>
             </div>
             <!-- Copyright -->
 
           </footer>
           <!-- Footer -->
            <!-- script -->
-           <script>  
-           $(document).ready(function(){  
-            // Setup - add a text input to each footer cell
-              $('#data-table thead tr').clone(true).appendTo( '#data-table thead' );
-              $('#data-table thead tr:eq(1) th').each( function (i) {
-                  var title = $(this).text();
-                  $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
-           
-                  $( 'input', this ).on( 'keyup change', function () {
-                      if ( table.column(i).search() !== this.value ) {
-                          table
-                              .column(i)
-                              .search( this.value )
-                              .draw();
-                      }
-                  } );
-              } );
-                  var table = $('#data-table').DataTable( {
-                  orderCellsTop: true,
-                  fixedHeader: true,
-                  "ajax" : "kodefikasi_surat.json",  
-                  "language" : { 
+           <script>
+           $(document).ready(function(){
+            /* Formatting function for row details - modify as you need */
+            function format ( d ) {
+                // `d` is the original data object for the row
+                return '<table class="table " style="padding-left:50px;">'+
+                    '<tr>'+
+                        '<td>Retensi Aktif </td>'+
+                        '<td>'+d.Aktif+' tahun</td>'+
+                    '</tr>'+
+                    '<tr>'+
+                        '<td>Retensi Inaktif </td>'+
+                        '<td>'+d.Inaktif+' tahun</td>'+
+                    '</tr>'+
+                    '<tr>'+
+                        '<td>Penyusutan </td>'+
+                        '<td>'+d.Penyusutan+'</td>'+
+                    '</tr>'+
+                '</table>';
+            }
+
+            $(document).ready(function() {
+
+                var table = $('#data-table').DataTable( {
+                    "ajax": "csvjson.json",
+                    "language" : {
                               "url":"indonesia.json"
                             },
-                  "columns":     [    
-                       { "data" : "Kode"},  
-                       { "data" : "Keterangan"},
-                       { "data" : "Uraian"}
-                  ]  
-              } );
-           });  
-          </script>   
-      </body>  
- </html>  
+
+                    "columns": [
+                        {
+                            "className":      'details-control',
+                            "orderable":      false,
+                            "data":           null,
+                            "defaultContent": ''
+                        },
+                        { "data": "Kode" },
+                        { "data": "Keterangan" },
+                        { "data": "Jenis" },
+                        { "data": "Uraian" }
+                    ],
+                    "order": [[1, 'asc']]
+                } );
+                
+                // Add event listener for opening and closing details
+                $('#data-table tbody').on('click', 'td.details-control', function () {
+                    var tr = $(this).closest('tr');
+                    var row = table.row( tr );
+
+                    if ( row.child.isShown() ) {
+                        // This row is already open - close it
+                        row.child.hide();
+                        tr.removeClass('shown');
+                    }
+                    else {
+                        // Open this row
+                        row.child( format(row.data()) ).show();
+                        tr.addClass('shown');
+                    }
+                } );
+            } );
+           });
+          </script>
+      </body>
+ </html>

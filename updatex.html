@@ -70,6 +70,7 @@
                 </tbody>
                </table>
              </div>
+            <div class="table-responsive">
                 <table id="data-table" class="table table-bordered">  
                      <thead>  
                           <tr> 
@@ -89,7 +90,8 @@
                                <th>Uraian</th>  
                           </tr>  
                      </tfoot>  
-                </table>  
+                </table>
+            </div>
            </div> 
 
           <!-- Footer -->
@@ -108,7 +110,7 @@
           /* Formatting function for row details - modify as you need */
 function format ( d ) {
     // `d` is the original data object for the row
-    return '<table cellpadding="0" cellspacing="0" border="1" style="padding-left:50px;">'+
+    return '<table class="table" cellpadding="0" cellspacing="0" border="0" style="padding-left:50px;">'+
         '<tr>'+
             '<td>Full name:</td>'+
             '<td>'+d.Aktif+'</td>'+

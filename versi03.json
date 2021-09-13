@@ -1,0 +1,3632 @@
+{  
+      "data"     :     [
+  {
+    "Kode": "KP.01",
+    "Keterangan": "Kepegawaian",
+    "Jenis": "Bezzeting /Data Persediaan Pegawai",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan data persediaan pegawai"
+  },
+  {
+    "Kode": "KP.02.01",
+    "Keterangan": "Formasi Pegawai",
+    "Jenis": "Usulan Permintaan Formasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan usulan formasi yang diajukan dari unit kerja termasuk dalamnya rencana penempatan pegawai dan rencana penetapan klasifikasi pendidikan"
+  },
+  {
+    "Kode": "KP.02.02",
+    "Keterangan": "Formasi Pegawai",
+    "Jenis": "Penetapan Formasi Pegawai",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan persetujuan/penetapan formasi"
+  },
+  {
+    "Kode": "KP.02.03",
+    "Keterangan": "Formasi Pegawai",
+    "Jenis": "Penetapan Formasi Khusus",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan penetapan formasi khusus, termasuk di dalamnya usulan formasi khusus."
+  },
+  {
+    "Kode": "KP.03.01.01",
+    "Keterangan": "Pengadaan Pegawai",
+    "Jenis": "Penerimaan Pegawai Diterima",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan penerimaan pegawai, mulai dari pengumuman, lamaran, pemanggilan, test sampai dengan pengumuman penerimaan."
+  },
+  {
+    "Kode": "KP.03.01.02",
+    "Keterangan": "Pengadaan Pegawai",
+    "Jenis": "Penerimaan Pegawai Ditolak",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan penerimaan pegawai, mulai dari pengumuman, lamaran, pemanggilan, test sampai dengan pengumuman penerimaan."
+  },
+  {
+    "Kode": "KP.03.02",
+    "Keterangan": "Pengadaan Pegawai",
+    "Jenis": "Pengangkatan CPNS dan PNS",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengangkatan CPNS, pengangkatan CPNS menjadi PNS mulai dari pemeriksaan kesehatan sampai dengan pengangkatan"
+  },
+  {
+    "Kode": "KP.03.03",
+    "Keterangan": "Pengadaan Pegawai",
+    "Jenis": "Prajabatan",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan perencanaan, pelaksanaan, pelaporan, dan evaluasi pendidikan prajabatan."
+  },
+  {
+    "Kode": "KP.03.04",
+    "Keterangan": "Pengadaan Pegawai",
+    "Jenis": "Penempatan Pegawai",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Berkas Perorangan",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penempatan pegawai"
+  },
+  {
+    "Kode": "KP.04.01",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Jenis": "Ujian Penyesuaian Ijazah",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pelaksanaan ujian penyesuaian ijazah bagi PNS"
+  },
+  {
+    "Kode": "KP.04.02",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Jenis": "Ujian Dinas",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pelaksanaan ujian dinas bagi PNS."
+  },
+  {
+    "Kode": "KP.04.03",
+    "Keterangan": "Ujian Kenaikan Pangkat/ Jabatan dan Uji Kompetensi",
+    "Jenis": "Uji Kompetensi",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pelaksanaan uji kompetensi."
+  },
+  {
+    "Kode": "KP.05.01",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Mutasi Nota Pertimbangan Kepala BKN",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan nota persetujuan/pertimbangan Kepala BKN"
+  },
+  {
+    "Kode": "KP.05.02",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Mutasi Kenaikan Pangkat/Gol",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan kenaikan pangkat/golongan pegawai."
+  },
+  {
+    "Kode": "KP.05.03",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Mutasi Kenaikan Gaji Berkala",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kenaikan gaji berkala pegawai."
+  },
+  {
+    "Kode": "KP.05.04",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Mutasi Penyesuaian Masa Kerja",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan perhitungan masa kerja untuk penyesuaian ruang gaji."
+  },
+  {
+    "Kode": "KP.05.05",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Mutasi Keluarga",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Berkas Perorangan",
+    "Uraian": "Arsip yang berkaitan dengan mutasi keluarga terkait dengan penyesuaian tunjangan keluarga."
+  },
+  {
+    "Kode": "KP.05.06",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Usul Perubahan Data",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Berkas Perorangan",
+    "Uraian": "Arsip yang berkaitan usulan penetapan perubahan data dasar/status/kedudukan hukum pegawai"
+  },
+  {
+    "Kode": "KP.05.07",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Penyesuaian Tunjangan Kinerja",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Naskah-naskah yang berkaitan dengan pengurusan tunjangan kinerja"
+  },
+  {
+    "Kode": "KP.05.08",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Promosi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan promosi jabatan."
+  },
+  {
+    "Kode": "KP.05.09",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Rotasi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan rotasi kerja dalam rangka pemantapan tugas termasuk mutasi internal."
+  },
+  {
+    "Kode": "KP.05.10",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Berkas Baperjakat",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan hasil rapat dan berita acara hasil baperjakat"
+  },
+  {
+    "Kode": "KP.05.11",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Seleksi Terbuka",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "arsip yang berkaitan dengan seleksi terbuka jabatan pimpinan tinggi madya dan jabatan tinggi pratama"
+  },
+  {
+    "Kode": "KP.05.12",
+    "Keterangan": "Mutasi Pegawai",
+    "Jenis": "Alih Tugas",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan alih tugas seperti mutasi antar instansi, pegawai yang dipekerjakan, pegawai yang diperbantukan"
+  },
+  {
+    "Kode": "KP.06.01",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Jenis": "Pengangkatan Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengangkatan dalam jabatan struktural maupun fungsional termasuk di dalamnya pelantikan"
+  },
+  {
+    "Kode": "KP.06.02",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Jenis": "Pemberhentian Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemberhentian pegawai dari jabatan struktural maupun fungsional."
+  },
+  {
+    "Kode": "KP.06.03",
+    "Keterangan": "Pengangkatan dan Pemberhentian Pegawai",
+    "Jenis": "Pemberhentian Pegawai tanpa hak pensiun",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Berkas Perorangan",
+    "Uraian": "Naskah-naskah yang berkaitan dengan kegiatan pemberhentian pegawai tanpa hak pensiun"
+  },
+  {
+    "Kode": "KP.07.01",
+    "Keterangan": "Pendelegasian Wewenang",
+    "Jenis": "Pelaksana Tugas (Plt)",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penunjukan pejabat pelaksana tugas untuk mengisi kekosongan jabatan apabila pejabat definitifnya belum dilantik"
+  },
+  {
+    "Kode": "KP.07.02",
+    "Keterangan": "Pendelegasian Wewenang",
+    "Jenis": "Pelaksana Harian (Plh)",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penunjukan pejabat pelaksana harian dikarenakan pejabat definitif tidak dapat menjalankan tugas secara optimal (tugas luar, sakit, mengikuti pendidikan dan pelatihan)."
+  },
+  {
+    "Kode": "KP.08.01",
+    "Keterangan": "Administrasi Pegawai",
+    "Jenis": "Data/ Keterangan Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan data pegawai dan keterangan pegawai termasuk presensi pegawai"
+  },
+  {
+    "Kode": "KP.08.02",
+    "Keterangan": "Administrasi Pegawai",
+    "Jenis": "Kartu Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengurusan kartu pegawai"
+  },
+  {
+    "Kode": "KP.08.03",
+    "Keterangan": "Administrasi Pegawai",
+    "Jenis": "Karis/Karsu",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengurusan Kartu Istri (Karis) atau Kartu Suami (Karsu)"
+  },
+  {
+    "Kode": "KP.08.04",
+    "Keterangan": "Administrasi Pegawai",
+    "Jenis": "Kartu Taspen",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengurusan kartu Taspen"
+  },
+  {
+    "Kode": "KP.08.05",
+    "Keterangan": "Administrasi Pegawai",
+    "Jenis": "Kartu Askes/ BPJS/ Jamkesmen",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengurusan tentang Askes"
+  },
+  {
+    "Kode": "KP.09.01",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Jenis": "Penilaian Prestasi Kerja",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan penilaian prestasi kerja pegawai termasuk SKP"
+  },
+  {
+    "Kode": "KP.09.02",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Jenis": "Pembinaan Mental",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pembinaan mental pegawai  termasuk didalamnya ceramah keagamaan"
+  },
+  {
+    "Kode": "KP.09.03",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Jenis": "Disiplin Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK & BAP",
+    "Uraian": "Arsip yang berkaitan dengan disiplin pegawai, menyangkut tingkat kehadiran maupun hukuman disiplin"
+  },
+  {
+    "Kode": "KP.09.04",
+    "Keterangan": "Pembinaan Karir Pegawai",
+    "Jenis": "Tanda Jasa/Penghargaan",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec SK",
+    "Uraian": "Arsip yang berkaitan dengan pemberian tanda jasa/penghargaan kepada pegawai Badan POM termasuk penunjukan  pegawai teladan."
+  },
+  {
+    "Kode": "KP.10.01",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsipnal Pengawas Farmasi Makanan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional PFM, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.02",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Peneliti",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional peneliti, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.03",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Perencana",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional perencana, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.04",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Analisis Kebijakan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional analis kebijakan, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.05",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Pengadaan Barang dan Jasa",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional PPBJ, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabata"
+  },
+  {
+    "Kode": "KP.10.06",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Arsiparis",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional arsiparis, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.07",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Pranata Komputer",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional Pranata Komputer, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.08",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Analisi Kepegawaian",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional analis kepegawaian, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.09",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Statistik",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional statistisi, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.10",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Pranata Humas",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional pranata humas, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.11",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Perancang Per - UU",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional perancang peraturan Undang-Undang, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.12",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Auditor",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional auditor, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.13",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Auditor Kepegawaian",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional auditor kepegawaian, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.14",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Assesor Kepegawaian",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional assesor kepegawaian, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.15",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Pustakawan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional pustakawan, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.16",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Fungsional Penerjemah",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional penerjemah, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.10.17",
+    "Keterangan": "Pembinaan Jabatan Fungsional",
+    "Jenis": "Jabatan Fungsional Widyaiswara dan Lainnya",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec PAK & SK",
+    "Uraian": "Arsip yang berkaitan dengan jabatan fungsional jabatan fungsional lain, sejak usulan pengangkatan, penilaian dan penetapan angka kredit sampai pemberian tunjangan jabatan"
+  },
+  {
+    "Kode": "KP.11.01",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Jenis": "Kesehatan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan penyelenggaraan kesehatan pegawai, general check up pegawai maupun pejabat"
+  },
+  {
+    "Kode": "KP.11.02",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Jenis": "Cuti",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan hak cuti pegawai yang meliputi cuti tahunan, cuti bersalin, cuti besar, cuti sakit, cuti alasan penting, izin potong cuti dan cuti di luar tanggungan negara"
+  },
+  {
+    "Kode": "KP.11.03",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Jenis": "Rekreasi/ Kesenian/ Olahraga/ HUT/kegiatan\nkeagamaan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan rekreasi, kesenian , olahraga dan keagamaan"
+  },
+  {
+    "Kode": "KP.11.04",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Jenis": "Bantuan Sosial",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pemberian bantuan atau tunjangan sosial kepada pegawai dan keluarganya yang mengalami musibah termasuk di dalamnya bantuan sosial yang diberikan oleh atau kepada pihak lain, sumbangan-sumbangan lainny"
+  },
+  {
+    "Kode": "KP.11.05",
+    "Keterangan": "Kesejahteraan Pegawai",
+    "Jenis": "Pinjaman Dana dan Perumahan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pinjaman dana dan perumahan pegawai"
+  },
+  {
+    "Kode": "KP.12",
+    "Keterangan": "Perselisihan/Sengketa/Keberatan",
+    "Jenis": "Perselisihan/Sengketa/Keberatan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang terkait dengan perselisihan/ sengketa/ keberatan termasuk di dalamnya perceraian dan perkawinan"
+  },
+  {
+    "Kode": "KP.13.01",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Jenis": "KORPRI",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan organisasi korpri Badan Pengawas Obat dan Makana"
+  },
+  {
+    "Kode": "KP.13.02",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Jenis": "Dharma Wanita",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan organisasi dharma wanita Badan Pengawas Obat dan Makanan"
+  },
+  {
+    "Kode": "KP.13.03",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Jenis": "Perhimpunan Kepedulian Sosial Pegawai Badan POM",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan Perhimpunan Kepedulian Sosial Pegawai Badan POM"
+  },
+  {
+    "Kode": "KP.13.04",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Jenis": "Koperasi",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan koperasi Badan Pengawas Obat dan Makana"
+  },
+  {
+    "Kode": "KP.13.05",
+    "Keterangan": "Organisasi Non Kedinasan",
+    "Jenis": "Lain-Lain",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan organisasi non kedinasan lainnya"
+  },
+  {
+    "Kode": "KP.14",
+    "Keterangan": "Berkas Perorangan Pegawai",
+    "Jenis": "Berkas Perorangan Pegawai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan data pegawai dari pengangkatan sampai pensiun"
+  },
+  {
+    "Kode": "OT.01.01",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Jenis": "Analisis Kelembagaan",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan analisis dan evaluasi organisasi antara lain pembentukan, perubahan, dan pembubaran unit kerja."
+  },
+  {
+    "Kode": "OT.01.02",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Jenis": "Evaluasi Kelembagaan",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan proses perubahan dan penyempurnaan organisasi."
+  },
+  {
+    "Kode": "OT.01.03",
+    "Keterangan": "Kelembagaan/Organisasi",
+    "Jenis": "Reformasi Birokrasi",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan perumusan, persiapan, pelaksanaan, monitoring dan evaluasi Reformasi Birokrasi di Lingkungan Badan Pengawas Obat dan Makanan"
+  },
+  {
+    "Kode": "OT.02.01",
+    "Keterangan": "Tata Laksana",
+    "Jenis": "Penyusunan Standar/ Pedoman/ Prosedur Kerja/ \nPetunjuk Pelaksanaan/ Petunjuk Teknis",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan  Standar/ pedoman/ prosedur kerja/ petunjuk pelaksanaan/ petunjuk Teknis   mulai  dari rancangan awal sampai dengan rancangan akhir dan telaah hukum sampai dengan disahkannya."
+  },
+  {
+    "Kode": "OT.02.02",
+    "Keterangan": "Tata Laksana",
+    "Jenis": "Monitoring dan Evaluasi SOP",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan monitoring dan evaluasi penerapan SOP/Prosedur Kerja di unit kerja."
+  },
+  {
+    "Kode": "HK.01",
+    "Keterangan": "Program Legislasi",
+    "Jenis": "Program Legislasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan program legislasi Badan POM maupun program legislasi nasional."
+  },
+  {
+    "Kode": "HK.02.01",
+    "Keterangan": "Produk Hukum",
+    "Jenis": "Produk Hukum yang Bersifat Pengaturan",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan rancangan peraturan perundangan mulai arsip akademik, rancangan awal sampai dengan rancangan akhir dan telaah hukum sampai diundangkannya/disahkan meliputi: - RUU/ Perpu - Peraturan Pemerintah - Peraturan/keputusan, instruksi presiden - Peraturan Pimpinan Badan POM"
+  },
+  {
+    "Kode": "HK.02.02",
+    "Keterangan": "Produk Hukum",
+    "Jenis": "Produk Hukum yang Bersifat Penetapan",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan produk hukum yang bersifat penetapan antara lain Keputusan Kepala Badan, Eselon I, Keputusan Direktur/Kepala Pusat/Kepala Biro/Kepala Balai Besar/Kepala Balai POM, Kepala Loka POM, Surat Edaran, Instruksi"
+  },
+  {
+    "Kode": "HK.03",
+    "Keterangan": "Dokumentasi Hukum",
+    "Jenis": "Dokumentasi Hukum",
+    "Aktif": 1,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyelenggaraan jaringan dokumentasi hukum, perluasan dan penyebaran informasi hukum"
+  },
+  {
+    "Kode": "HK.04.01",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Jenis": "Perkara Perdata",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  koordinasi dan fasilitasi penanganan perkara hukum/kasus dalam kasus hukum perdata, termasuk hukum niag"
+  },
+  {
+    "Kode": "HK.04.02",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Jenis": "Perkara Praperadilan",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan koordinasi dan fasilitasi penanganan perkara hukum/kasus hukum praperadilan"
+  },
+  {
+    "Kode": "HK.04.03",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Jenis": "Perkara Pidana",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengankoordinasi dan fasilitasi pendampingan hukum dalam pemberian keterangan saksi/ahli dan pendampingan pejabat/pegawai di lingkungan BPOM dalam perkara hukum/kasus hukum pidan"
+  },
+  {
+    "Kode": "HK.04.04",
+    "Keterangan": "Penanganan Perkara Litigasi",
+    "Jenis": "Perkara Peradilan Tata Usaha Negara (TUN)",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan koordinasi dan fasilitasi penanganan perkara hukum/kasus hukum TUN"
+  },
+  {
+    "Kode": "HK.05",
+    "Keterangan": "Penanganan Perkara Non Litigasi",
+    "Jenis": "Penanganan Perkara Non Litigasi",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan koordinasi dan fasilitasi penanganan perkara hukum/kasus hukum  Non Litigasi"
+  },
+  {
+    "Kode": "HK.06.01",
+    "Keterangan": "Pertimbangan Hukum",
+    "Jenis": "Pertimbangan Hukum Permasalahan di Bidang Obat dan \nMakanan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  penelahaan peraturan perundang-undangan dan instrumen hukum  untuk internal  badan BPOM"
+  },
+  {
+    "Kode": "HK.06.02",
+    "Keterangan": "Pertimbangan Hukum",
+    "Jenis": "Pertimbangan hukum Kepegawaian",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  penelahaan peraturan perundang-undangan dan instrumen hukum untuk eksternal  Badan BPOM"
+  },
+  {
+    "Kode": "HK.07",
+    "Keterangan": "Sosialisasi/ Penyuluhan/ Pembinaan Hukum",
+    "Jenis": "Sosialisasi/ Penyuluhan/ Pembinaan Hukum",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan sosialisasi/ penyuluhan/ pembinaan hukum dan  penyebarluasan peraturan dan instrumen hukum kepada lembaga maupun perorangan."
+  },
+  {
+    "Kode": "PR.01.01",
+    "Keterangan": "Kebijakan dan Strategi Pembangunan",
+    "Jenis": "RPJP",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pokok-pokok kebijakan dan strategi pembangunan Rencana Pembangunan Jangka Panjang/master plan (RPJM)."
+  },
+  {
+    "Kode": "PR.01.02",
+    "Keterangan": "Kebijakan dan Strategi Pembangunan",
+    "Jenis": "RPJM",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pokok-pokok kebijakan dan strategi pembangunan Rencana Pembangunan Jangka Menengah (RPJM), Rencana Strategis (Renstra)"
+  },
+  {
+    "Kode": "PR.02.01",
+    "Keterangan": "Program Kerja Tahunan",
+    "Jenis": "Usulan Unit Kerja beserta Data Pendukung",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan penyusunan usulan program kerja tahunan, dan Rencana Kerja Pemerintah (RKP)."
+  },
+  {
+    "Kode": "PR.02.02",
+    "Keterangan": "Program Kerja Tahunan",
+    "Jenis": "Program Kerja Tahunan Unit Kerja",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan penyusunan Rencana Kerja Tahunan unit kerja."
+  },
+  {
+    "Kode": "PR.02.03",
+    "Keterangan": "Program Kerja Tahunan",
+    "Jenis": "Program Kerja Tahunan Instansi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan penyusunan Rencana Kerja (Renja K/L)"
+  },
+  {
+    "Kode": "PR.03.01",
+    "Keterangan": "Perencanaan Anggaran",
+    "Jenis": "RKA-KL/Pagu Indikatif/Sementara",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan APBN instansi ketetapan pagu indikatif/Sementara, RKA-KL pagu indikatif, Pagu anggaran, dan Alokasi Anggaran."
+  },
+  {
+    "Kode": "PR.03.02",
+    "Keterangan": "Perencanaan Anggaran",
+    "Jenis": "Pagu Definitif",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan APBN instansi ketetapan pagu definitif"
+  },
+  {
+    "Kode": "PR.03.03",
+    "Keterangan": "Perencanaan Anggaran",
+    "Jenis": "DIPA",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Daftar Isian Pelaksanaan Anggaran (DIPA), Petunjuk Operasional Kegaiatan (POK), dan revisinya."
+  },
+  {
+    "Kode": "PR.03.04",
+    "Keterangan": "Perencanaan Anggaran",
+    "Jenis": "Target PNBP",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Target Penerimaan Negara Bukan Pajak (PNBP)"
+  },
+  {
+    "Kode": "PR.03.05",
+    "Keterangan": "Perencanaan Anggaran",
+    "Jenis": "Ketentuan/Peraturan Anggaran",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan ketentuan/peraturan yang menyangkut pelaksanaan, penatausahaan dan pertanggungjawaban anggaran, terdiri dari Juklak dan Juknis Anggaran."
+  },
+  {
+    "Kode": "PR.04.01",
+    "Keterangan": "Rencana Kinerja Tahunan",
+    "Jenis": "Rencana Kinerja Unit Kerja",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan rencana kinerja unit"
+  },
+  {
+    "Kode": "PR.04.02",
+    "Keterangan": "Rencana Kinerja Tahunan",
+    "Jenis": "Rencana Kinerja Instansi",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan rencana kinerja instansi"
+  },
+  {
+    "Kode": "PR.05",
+    "Keterangan": "Perjanjian Kinerja",
+    "Jenis": "Perjanjian Kinerja",
+    "Aktif": 3,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah kec SK Ka Badan",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan perjanjian/kontrak kinerja unit kerja, yang ditandatangani pimpinan unit kerja dan atasan langsungnya"
+  },
+  {
+    "Kode": "PR.06.01",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Bulanan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan bulanan"
+  },
+  {
+    "Kode": "PR.06.02",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Triwulanan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan triwulan"
+  },
+  {
+    "Kode": "PR.06.03",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Semesteran",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan Semesteran"
+  },
+  {
+    "Kode": "PR.06.04",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Tahunan Unit Kerja",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan tahunan unit kerja"
+  },
+  {
+    "Kode": "PR.06.05",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Tahunan Lembaga/Instansi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan tahunan lembaga/instansi"
+  },
+  {
+    "Kode": "PR.06.06",
+    "Keterangan": "Laporan",
+    "Jenis": "Laporan Insidental",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan insidental"
+  },
+  {
+    "Kode": "PR.07.01",
+    "Keterangan": "Laporan Akuntabilitas Kinerja Instansi Pemerintah",
+    "Jenis": "Laporan Akuntabilitas Unit kerja",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan akuntabilitas unit kerja"
+  },
+  {
+    "Kode": "PR.07.02",
+    "Keterangan": "Laporan Akuntabilitas Kinerja Instansi Pemerintah",
+    "Jenis": "Laporan Akuntabilitas Instansi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pembuatan laporan akuntabilitas instansi"
+  },
+  {
+    "Kode": "PR.08.01",
+    "Keterangan": "Evaluasi Kinerja",
+    "Jenis": "Evaluasi Kinerja Unit Kerja",
+    "Aktif": 2,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan evaluasi pelaksanaan program dan kegiatan unit kerja"
+  },
+  {
+    "Kode": "PR.08.02",
+    "Keterangan": "Evaluasi Kinerja",
+    "Jenis": "Evaluasi Kinerja BPOM",
+    "Aktif": 2,
+    "Inaktif": 4,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan evaluasi pelaksanaan program dan kegiatan Badan POM"
+  },
+  {
+    "Kode": "KU.01.01",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Pengajuan UP/TUP",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Pengajuan UP/TUP"
+  },
+  {
+    "Kode": "KU.01.02",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Pencairan Anggaran",
+    "Aktif": 3,
+    "Inaktif": 7,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan pencairan anggaran, mulai dari Surat Permintaan Pembayaran (SPP-GU (Ganti Uang), SPP-LS (Langsung), SPP-UP (Uang Persediaan), SSP-TUP (Tambahan Uang Persediaan), Surat Kuasa sampai Surat Perintah Membayar (SPM), Surat Perintah Pencairan Dana (SP2D), Juklak/mekanisme pengelolaan APBN serta Bahan Nota Keuangan"
+  },
+  {
+    "Kode": "KU.01.03",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Pengelolaan Belanja Pegawai",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Pengelolaan gaji pegawai, uang makan pegawai, uang lembur pegawai, dan tunjangan kinerja."
+  },
+  {
+    "Kode": "KU.01.04",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Keterangan Penghasilan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan keterangan penghasilan perorangan/pegawai."
+  },
+  {
+    "Kode": "KU.01.05",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "SKPP",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan penerbitan SKPP (Surat Keterangan Pemberhentian Pembayaran)."
+  },
+  {
+    "Kode": "KU.01.06",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Laporan Arus Kas",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan laporan arus kas meliputi: - Berita Acara Pemeriksaan - Kas/ register Penutupan Kas - Laporan realisasi anggaran (LRA) termasuk Arsip data computer (ADK) - Laporan Pendapatan Negara - Laporan Keadaan Kredit Anggaran(LKKA) Bulanan/Triwulan/Semesteran"
+  },
+  {
+    "Kode": "KU.01.07",
+    "Keterangan": "Pelaksanaan Anggaran",
+    "Jenis": "Data Rekening Bendahara",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan data rekening bendahara"
+  },
+  {
+    "Kode": "KU.02.01",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Perbendaharaan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengelolaan perbendaharaan berupa Surat Keputusan penunjukan dan pengangkatan Kuasa Pengguna Anggaran, Pejabat Pembuat Komitmen, Pejabat Penguji dan Penandatanganan SPM dan Bendahara pengeluaran dan Bendahara penerimaan, Pejabat Pengadaan dan Penerima, Staf Pengelola Kegiatan dan Pengelola Belanja Pegawai, Kelompok Kerja Unit Layanan Pengadaan dan Panitia Penerima Hasil Pekerjaan."
+  },
+  {
+    "Kode": "KU.02.02",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "KP4 (Kartu Pengawas Pembayaran Penghasilan Pegawai)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengelolaan perbendaharaan berupa KP4 yaitu surat Keterangan untuk Mendapat Tunjangan Keluarga dan Surat Keterangan lainnya. (masuk ke Bag. SDM)"
+  },
+  {
+    "Kode": "KU.02.03",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Pajak",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatanyang berkaitan dengan kegiatan pengelolaan perbendaharaan berupa penerimaan dan Surat Setoran Pajak (SSP)"
+  },
+  {
+    "Kode": "KU.02.04",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Penerimaan Non Pajak",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengelolaan perbendaharaan berupa penerimaan dan penyetoran non pajak melalui Surat Setoran Bukan Pajak (SSBP) ke Kas Negara."
+  },
+  {
+    "Kode": "KU.02.05",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Pengembalian Belanja",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pengembalian belanja, berupa pengembalian belanja pegawai, barang, modal melalui Surat Setoran Pengembalian Belanja (SSPB)."
+  },
+  {
+    "Kode": "KU.02.06",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Laporan Pertanggungjawaban Bendahara",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan laporan pertanggungjawaban bendahara antara lain :Pembukuan bendahara , LPJ"
+  },
+  {
+    "Kode": "KU.02.07",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Berita Acara Pemeriksaan Kas",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengelolaan perbendaharaan berupa berita acara pemeriksaan kas"
+  },
+  {
+    "Kode": "KU.02.08",
+    "Keterangan": "Pengeloaan Perbendaharaan",
+    "Jenis": "Verifikasi Anggaran",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengelolaan perbendaharaan yang berkaitan dengan pengujian/ penelitian kebenaran pertanggungjawaban pengeluaran disertai dengan dokumen pertanggungjawaban penerimaan/pengeluaran anggaran."
+  },
+  {
+    "Kode": "KU.03.01",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Kesanggupan Negara Donor",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kesanggupan negara donor untuk membiayai (grey book)"
+  },
+  {
+    "Kode": "KU.03.02",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Nota Kesepahaman (MoU)",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan nota kesepahaman (MOU) dan sejenisnya"
+  },
+  {
+    "Kode": "KU.03.03",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Loan Agreement PHLN KS",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Loan Agreement Pinjaman Hibah Luar Negeri (PHLN) seperti: Draft Agreement, legal opinion, surat-menyurat dengan lender, dsb."
+  },
+  {
+    "Kode": "KU.03.04",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Alokasi dan Relokasi",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan alokasi dan relokasi penggunaan dana luar negeri antara lain: usulan luncuran dana."
+  },
+  {
+    "Kode": "KU.03.05",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Realisasi Pencairan Dana BLN",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan realisasi pencairan dana BLN yaitu : SP2D, SPM beserta lampirannya al: SPP, Kontrak, BA, dan data pendukung lainnya."
+  },
+  {
+    "Kode": "KU.03.06",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Replenishment",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan replenishment ( permintaan penarikan dana dari negara donor) meliputi al: No Objection Letter (NOL), project implementation, notification of contract, withdrawal authorization (WA), Statement of Expenditure (SE)."
+  },
+  {
+    "Kode": "KU.03.07",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Staf Apparaisal Report",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Staf Appraisal Report."
+  },
+  {
+    "Kode": "KU.03.08",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Report/Laporan",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan report/laporan berkala yang terdiri atas: - Progress report - Monthly Report - Quarterly report"
+  },
+  {
+    "Kode": "KU.03.09",
+    "Keterangan": "Bantuan/Pinjaman Luar Negeri",
+    "Jenis": "Ketentuan/Peraturan Pinjam Luar Negeri (Pindah Bag. Hukum)",
+    "Aktif": 1,
+    "Inaktif": 9,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan ketentuan/ peraturan yang menyangkut bantuan/ pinjaman luar negeri."
+  },
+  {
+    "Kode": "KU.04.01",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Kebijakan SAI",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kebijakan akuntansi Sistem Akuntansi Instansi (SAI)"
+  },
+  {
+    "Kode": "KU.04.02",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Berita Acara Rekonsilasi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Berita Acara Rekonsiliasi"
+  },
+  {
+    "Kode": "KU.04.03",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Daftar Transaksi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Daftar Transaksi (DT), Pengeluaran (PK), Penerimaan (PN), Dokumen Sumber (DS), Bukti Jurnal (BJ), Surat Tanda Setor (STS), Surat Setor Bukan Pajak (SSBP), Surat Perintah Pencairan Dana (SP2D), SPM dalam Daftar ringkasan pengembalian dan potongan dari pengeluaran (SPDR)."
+  },
+  {
+    "Kode": "KU.04.04",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Laporan Realisasi Bulanan SAI",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Laporan Realisasi Bulanan SAI"
+  },
+  {
+    "Kode": "KU.04.05",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Laporan Realisasi Triwulanan SAI",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Laporan realisasi triwulan SAI dari Unit Akuntansi Wilayah(UAW) dan gabungan semua UAW/ Unit Akuntansi Kantor Pusat Instansi (UAKPI"
+  },
+  {
+    "Kode": "KU.04.06",
+    "Keterangan": "Sistem Akuntansi Instansi (SAI)",
+    "Jenis": "Laporan Keuangan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah Kec.Laptah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Laporan Keuangan Tahunan, meliputi: - Laporan Keuangan Bulanan - Laporan Keuangan Triwulan - Laporan Keuangan Semester - Laporan Keuangan Tahunan (Unaudited) - Laporan Keuangan Tahunan Audited (masuk ke Pengelolaan SAI)"
+  },
+  {
+    "Kode": "KS.01.01",
+    "Keterangan": "Kerja Sama Dalam Negeri",
+    "Jenis": "Antar Instansi Pemerintah",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan perjanjian kerja sama antar instansi pemerintah mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama."
+  },
+  {
+    "Kode": "KS.01.02",
+    "Keterangan": "Kerja Sama Dalam Negeri",
+    "Jenis": "Organisasi Non Pemerintah",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan perjanjian kerja sama dengan organisasi pemerintah mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama."
+  },
+  {
+    "Kode": "KS.02.01",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Jenis": "Bilateral",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan kerja sama bilateral mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama"
+  },
+  {
+    "Kode": "KS.02.02",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Jenis": "Multilateral",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan kerja sama multilateral mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama"
+  },
+  {
+    "Kode": "KS.02.03",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Jenis": "Regional",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan kerja sama regional mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama"
+  },
+  {
+    "Kode": "KS.02.04",
+    "Keterangan": "Kerja Sama Luar Negeri",
+    "Jenis": "Organisasi Internasional",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan kerja sama organisasi internasional mulai dari kajian, pembuatan rancangan, pembahasan, sampai dengan penandatanganan perjanjian kerja sama serta implementasi, monitoring dan evaluasi kerja sama"
+  },
+  {
+    "Kode": "HM.01",
+    "Keterangan": "Kehumasan",
+    "Jenis": "Kehumasan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penerangan terhadap masyarakat di bidang pengawasan obat dan makanan melalui kegiatan publikasi di Media Massa,Media online, dan Media sosial seperti wawancara, wartawan, siaran pers/ konferensi pers/press realesetermasuk tanggapan terhadap berita dan layanan informasi publik"
+  },
+  {
+    "Kode": "HM.02",
+    "Keterangan": "Dengar Pendapat/ Hearing DPR",
+    "Jenis": "Dengar Pendapat/ Hearing DPR",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan administrasi penyelenggaraan kegiatan dengar pendapat/ hearing dengan DPR meliputi bahan sidang kabinet, bahan RDP, bahan Rakor Tingkat Badan termasuk hasil rumusannya, bahan rapat terbatas dan pidato Kepala BPOM"
+  },
+  {
+    "Kode": "HM.03.01",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Jenis": "Lembaga Negara",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan hubungan antar Kementerian/ Lembaga Negara dan Pemerintah Daerah."
+  },
+  {
+    "Kode": "HM.03.02",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Jenis": "Perusahaan",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan hubungan antar lembaga dengan pihak perusahaan (BUMN, BUMD dan Swasta)"
+  },
+  {
+    "Kode": "HM.03.03",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Jenis": "Organisasi Kemasyarakatan",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan hubungan antar lembaga dengan organisasi kemasyarakatan (Organisasi Sosial, Lembaga Swadaya Masyarakat/ LSM)"
+  },
+  {
+    "Kode": "HM.03.04",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Jenis": "Perguruan Tinggi/Sekolah",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan hubungan antar lembaga dengan perguruan tinggi/sekolah termasuk orientasi lapangan dan praktek kerja lapangan (PKL)"
+  },
+  {
+    "Kode": "HM.03.05",
+    "Keterangan": "Hubungan Antar Lembaga",
+    "Jenis": "Bakohumas",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan forum kehumasan (Bakohumas)"
+  },
+  {
+    "Kode": "HM.04.01",
+    "Keterangan": "Keprotokolan",
+    "Jenis": "Upacara/Acara Kedinasan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan protokoler termasuk upacara bendera, upacara hari besar, upacara pelantikan, upacara serah terima jabatan"
+  },
+  {
+    "Kode": "HM.04.02",
+    "Keterangan": "Keprotokolan",
+    "Jenis": "Kunjungan Dinas Pimpinan Lembaga",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan kunjungan dinas dalam dan luar negeri yang dilakukan oleh pimpinan instansi/ pejabat lain dan pegawa"
+  },
+  {
+    "Kode": "HM.04.03",
+    "Keterangan": "Keprotokolan",
+    "Jenis": "Agenda Pimpinan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan perencanaan, penjadualan dan pelaksanaan agenda pimpinan seperti agenda rapat pimpinan."
+  },
+  {
+    "Kode": "HM.05",
+    "Keterangan": "Penyiapan Dokumen Substransi Teknis Pimpinan",
+    "Jenis": "Penyiapan Dokumen Substransi Teknis Pimpinan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyiapan dokumen substansi teknis pimpinan"
+  },
+  {
+    "Kode": "HM.06",
+    "Keterangan": "Dokumentasi dan Penerbitan",
+    "Jenis": "Dokumentasi dan Penerbitan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec skl nasional",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan dokumentasi (peliputan, pemotretan dan shooting) dan penerbitan buletin/majalah/jurnal, mulai dari perencanaan sampai penyebaran."
+  },
+  {
+    "Kode": "HM.07",
+    "Keterangan": "Pameran/Sayembara/Lomba, Festival, Pembuatan\nSpanduk, dan Iklan",
+    "Jenis": "Pameran/Sayembara/Lomba, Festival, Pembuatan\nSpanduk, dan Iklan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyelenggaraan pameran, sayembara, lomba, festival, pembuatan spanduk, leaflet, brosur, dan iklan."
+  },
+  {
+    "Kode": "HM.08",
+    "Keterangan": "Penghargaan/Tanda Kenang-kenangan",
+    "Jenis": "Penghargaan/Tanda Kenang-kenangan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemberian penghargaan serta kenang-kenangan kepada instansi atau organisasi serta perseorangan yang memiliki jasa atau prestasi di bidang pengawasan obat dan makanan."
+  },
+  {
+    "Kode": "HM.09",
+    "Keterangan": "Pemberian Ucapan",
+    "Jenis": "Pemberian Ucapan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pemberian ucapan selamat, ucapan   terima kasih, ucapan bela sungkawa dan ucapan permohonan maaf."
+  },
+  {
+    "Kode": "HM.10",
+    "Keterangan": "Pengelolaan Web Site",
+    "Jenis": "Pengelolaan Web Site",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengelolaan web site."
+  },
+  {
+    "Kode": "HM.11.01",
+    "Keterangan": "Layanan Kehumasan",
+    "Jenis": "Layanan Pengaduan Masyarakat",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan layanan pengaduan masyarakat dimulai dari penerimaan pengaduan, penyapaian rujukan aduan kepada unit terkait sampai dengan penyelesaian tindak lanjut pengaduan"
+  },
+  {
+    "Kode": "HM.11.02",
+    "Keterangan": "Layanan Kehumasan",
+    "Jenis": "Layanan Komunikasi Informasi Edukasi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan layanan komunikasi informasi edukasi baik yang bersifat permintaan maupun bersifat inisiatif dari BPOM"
+  },
+  {
+    "Kode": "PL.01.01",
+    "Keterangan": "Perencanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Analisa Kebutuhan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Naskah-naskah yang berkaitan dengan usulan dan analisa kebutuhan dari unit kerja"
+  },
+  {
+    "Kode": "PL.01.02",
+    "Keterangan": "Perencanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Daftar Penyedia Barang dan Jasa",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan data  penyedia barang dan jasa di Badan Pengawas Obat dan Makanan."
+  },
+  {
+    "Kode": "PL.02.01",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Pengadaan Langsung",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara langsung mulai dari usulan pengadaaan (surat usulan dari penangung jawab kegiatan kepada PPK, KAK, Spesifikasi Teknis, Draf Kontrak), penyusunan HPS, SPK, BAST, BA Pembayaran ."
+  },
+  {
+    "Kode": "PL.02.02",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Lelang Sederhana",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara langsung mulai dari usulan pengadaaan (surat usulan dari penangung jawab kegiatan kepada PPK, KAK, Spesifikasi Teknis, Draf Kontrak), penyusunan HPS, SPK/Kontrak, BAST, BA Pembayaran, Dokumen Lelang ."
+  },
+  {
+    "Kode": "PL.02.03",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Lelang Umum",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara umum mulai dari usulan pengadaaan (surat usulan dari penangung jawab kegiatan kepada PPK, KAK, Spesifikasi Teknis, Draf Kontrak), penyusunan HPS, SPK/Kontrak, BAST, BA Pembayaran, Dokumen Lelang"
+  },
+  {
+    "Kode": "PL.02.04",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Lelang Cepat",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara cepat mulai dari usulan pengadaaan (surat usulan dari penangung jawab kegiatan kepada PPK, KAK, Spesifikasi Teknis, Draf Kontrak), penyusunan HPS, SPK/Kontrak, BAST, BA Pembayaran, Dokumen Lelang"
+  },
+  {
+    "Kode": "PL.02.05",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Penunjukan Langsung",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara penunjukan langsung mulai dari usulan pengadaaan (surat usulan dari penangung jawab kegiatan kepada PPK, KAK, Spesifikasi Teknis, Draf Kontrak), penyusunan HPS, SPK/Kontrak, BAST, BA Pembayaran, Dokumen penunjukan langsung"
+  },
+  {
+    "Kode": "PL.02.06",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Swakelola",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara swakelola mulai dari pembetukan SK Tim Swakelola, SK Pengadan Swakelola, SK Tim Pemeriksa Swakelola, Dokumen Swakelola"
+  },
+  {
+    "Kode": "PL.02.07",
+    "Keterangan": "Pelaksanaan Pengadaan Barang dan Jasa",
+    "Jenis": "Sayembara",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan barang dan jasa secara sayembara mulai dari pembetukan SK Tim Sayembara, SK Penetapan Sayembara, SK Penerima Hasil Sayembara, Dokumen Sayembara"
+  },
+  {
+    "Kode": "PL.03.01",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Penatausahaan Barang Milik Negara (BMN)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec BMN audited",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan Penatausahaan Barang Milik Negara (BMN) dari pengumpulan bukti pengadaaan, pencatatan, sampai dengan proses pelaporan BMN"
+  },
+  {
+    "Kode": "PL.03.02",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "nventarisasi Barang Milik Negara (BMN)",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan Inventarisasi Barang Milik Negara (BMN) dari proses kroscek antara laporan dengan fisik BMN sampai dengan penyusunan daftar inventarisasi BMN"
+  },
+  {
+    "Kode": "PL.03.03",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pendistribusian",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendistribusian dari proses awal sampai Berita Acara Serah terima."
+  },
+  {
+    "Kode": "PL.03.04",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Penetapan Status penggunaan BMN",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penataan status penggunaan BMN mulai dari usulan penetapan status BMN sampai dengan penetapan Status BMN"
+  },
+  {
+    "Kode": "PL.03.05",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pemeliharaan BMN",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemeliharaan BMN mulai dari usulan pemeliharaan sampai dengan pelaporan pemeliharaan BMN"
+  },
+  {
+    "Kode": "PL.03.06",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pemanfaatan BMN",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemanfaatan BMN mulai dari usulan pemanfaatan sampai dengan pelaporan pemanfaatan BMN"
+  },
+  {
+    "Kode": "PL.03.07",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pemindahtanganan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec BA Pindah tangan",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemindahtanganan BMN mulai dari usulan pemindahtanganan sampai dengan berita acara pemindahtanganan BMN"
+  },
+  {
+    "Kode": "PL.03.08",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Penyusutan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah kec BA Pindah tangan",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penghitungan usia ekonomis BMN mulai dari daftar BMN yang akan disusutkan sampai dengan pelaporan penyusutan BMN"
+  },
+  {
+    "Kode": "PL.03.09",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Penghapusan BMN",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah kec. SK Penghapusan Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penghapusan barang milik negara mulai dari usulandaftar BMN yang akan dihapus, daftar BMN yang dinilai kembali, SK Persetujuan penghapusan"
+  },
+  {
+    "Kode": "PL.03.10",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pelaporan BMN",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan  laporan barang milik negara (BMN)"
+  },
+  {
+    "Kode": "PL.03.11",
+    "Keterangan": "Pengelolaan Barang Milik Negara (BMN)",
+    "Jenis": "Pembinaan/Pengendalian/Pengawasan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembinaan/pengendalian/pengawasan barang milik negara (BMN)"
+  },
+  {
+    "Kode": "RT.01",
+    "Keterangan": "Kerumahtanggaan",
+    "Jenis": "Telekomunikasi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadministrasian penggunaan/langganan peralatan telekomunikasi seperti: telepon, internet, TV Kabel, dsb"
+  },
+  {
+    "Kode": "RT.02.01",
+    "Keterangan": "Perjalanan Dinas",
+    "Jenis": "Perjalanan dalam Negeri",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan perjalanan dinas dalam negari pegawai maupun pejabat BPOM"
+  },
+  {
+    "Kode": "RT.02.02",
+    "Keterangan": "Perjalanan Dinas",
+    "Jenis": "Perjalanan Luar Negeri",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan perjalanan dinas luar negeri pegawai maupun pejabat BPOM"
+  },
+  {
+    "Kode": "RT.03",
+    "Keterangan": "Penggunaan Fasilitas Kantor",
+    "Jenis": "Penggunaan Fasilitas Kantor",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan administrasi penggunaan seluruh fasilitas kantor meliputi form peminjaman fasilitas kantor, permohonan peminjaman, Rekap penggunaan fasilitas kantor"
+  },
+  {
+    "Kode": "RT.04",
+    "Keterangan": "Pengurusan Kendaraan Dinas",
+    "Jenis": "Pengurusan Kendaraan Dinas",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengurusan kendaraan dinas seperti: pengurusan surat-surat kendaraan dinas, pemeliharaan dan perbaikan, pengurusan kehilangan dan masalah kendaraan"
+  },
+  {
+    "Kode": "RT.05",
+    "Keterangan": "Pemeliharaan Gedung dan Bangunan",
+    "Jenis": "Pemeliharaan Gedung dan Bangunan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemeliharaan gedung dan bangunan, meliputi: pertamanan, penghijauan, perbaikan gedung, perbaikan rumah dinas/ wisma, kebersihan gedung dan taman, pengelolaan hydrant dari proses awal sampai Berita Acara Serah Terima"
+  },
+  {
+    "Kode": "RT.06",
+    "Keterangan": "Renovasi Gedung dan Bangunan",
+    "Jenis": "Renovasi Gedung dan Bangunan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec Gambar sket bangunan permanen",
+    "Uraian": "Arsip yang berkaitan dengan renovasi gedung dan bangunan dari proses awal sampai Berita Acara Serah Terima"
+  },
+  {
+    "Kode": "RT.07.01",
+    "Keterangan": "Pemeliharaan Fasilitas Kantor",
+    "Jenis": "Jalan dan Lingkungan Kantor",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemeliharaan jalan dan lingkungan kantor, meliputi: pemeliharaan jalan, pagar, higienis dan sanitasi ruangan, pemeliharaan saluran air, jasa kebersihan, anti tikus/rayap dari proses awal sampai Berita Acara Serah Terima."
+  },
+  {
+    "Kode": "RT.07.02",
+    "Keterangan": "Pemeliharaan Fasilitas Kantor",
+    "Jenis": "Alat Elektronik dan jaringan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan bukti penyelenggaraan kegiatan pemeliharaan alat elektronik dan jaringan seperti AC, listrik, air, telepon, komputer yang meliputi: perbaikan/ pemeliharaan, pemasangandari proses awal sampai Berita Acara Serah Terima"
+  },
+  {
+    "Kode": "RT.08.01",
+    "Keterangan": "Pengelolaan Lingkungan dan Limbah",
+    "Jenis": "Pengelolaan limbah laboratorium",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan  pengelolaan limbah laboratorium"
+  },
+  {
+    "Kode": "RT.08.02",
+    "Keterangan": "Pengelolaan Lingkungan dan Limbah",
+    "Jenis": "Pengelolaan K3",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengelolaan AMDAL, UPLKL mulai dari permohonan, analisis pemeriksaaan,  sertifikat hasil"
+  },
+  {
+    "Kode": "RT.09",
+    "Keterangan": "Ketertiban dan Keamanan",
+    "Jenis": "Ketertiban dan Keamanan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan ketertiban dan keamanan antara lain pengamanan, penjagaan, pengawalan terhadap pejabat, kantor, dan rumah dinas mulai dari penyusunan jadwal penjagaan sampai dengan pelaporan ketertiban dan keamana"
+  },
+  {
+    "Kode": "KA.01.01",
+    "Keterangan": "Administrasi Persuratan",
+    "Jenis": "Pengurusan Surat Masuk",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Dokumen-dokumen yang berkaitan dengan kegiatan pengurusan surat masuk yaitu, pencatatan, pengarahan, dan pendistribusian surat masuk, baik secara konvensional maupun elektronik."
+  },
+  {
+    "Kode": "KA.01.02",
+    "Keterangan": "Administrasi Persuratan",
+    "Jenis": "Pengurusan Surat Keluar",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Dokumen-dokumen yang berkaitan dengan kegiatan pengurusan surat keluar yaitu, pencatatan, pengarahan, pendistribusian surat masuk, baik secara konvensional maupun elektronik, termasuk penggunaan cap/stempel dan pengiriman surat/barang cetakan."
+  },
+  {
+    "Kode": "KA.02",
+    "Keterangan": "Penyusunan Sistem",
+    "Jenis": "Penyusunan Sistem",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan sistem kearsipan dinamis, meliputi Pedoman, Juklak dan Juknis Kearsipan."
+  },
+  {
+    "Kode": "KA.03",
+    "Keterangan": "Pembinaan Kearsipan",
+    "Jenis": "Pembinaan Kearsipan",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembinaan kearsipan meliputi Apresiasi/sosialisasi/penyuluhan kearsipan, bimbingan teknis, supervisi dan monitoring"
+  },
+  {
+    "Kode": "KA.04.01",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Jenis": "Penataan Arsip",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penataan arsip"
+  },
+  {
+    "Kode": "KA.04.02",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Jenis": "Pemindahan Arsip",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec BA Pindah Arsip",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemindahan arsip dari unit kerja ke unit kearsipan."
+  },
+  {
+    "Kode": "KA.04.03",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Jenis": "Pemusnahan Arsip",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec BA Pemusnahan Arsip",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pemusnahan arsip"
+  },
+  {
+    "Kode": "KA.04.04",
+    "Keterangan": "Pengelolaan Arsip Dinamis",
+    "Jenis": "Penyerahan Arsip",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec BA Penyerahan Arsip",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyerahan arsi"
+  },
+  {
+    "Kode": "KA.05",
+    "Keterangan": "Persetujuan Jadwal Retensi Arsip",
+    "Jenis": "Persetujuan Jadwal Retensi Arsip",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan proses peretujuan JRA sampai pengesahan"
+  },
+  {
+    "Kode": "KA.06",
+    "Keterangan": "Layanan Kearsipan",
+    "Jenis": "Layanan Kearsipan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan layanan arsip berupa peminjaman dan  penggunaan arsip"
+  },
+  {
+    "Kode": "PS.01.01",
+    "Keterangan": "Pengadaan Perpustakaan",
+    "Jenis": "Pengadaan Bahan Pustaka",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengadaan bahan pustaka"
+  },
+  {
+    "Kode": "PS.01.02",
+    "Keterangan": "Pengadaan Perpustakaan",
+    "Jenis": "Pengadaan Penunjang Perpustakaan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penunjang perpustakaan seperti pengadaan sampul, leaflet, dan peralatan lain"
+  },
+  {
+    "Kode": "PS.02",
+    "Keterangan": "Perpustakaan",
+    "Jenis": "Sosialisasi Perpustakaan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan sosialisasi perpustakaan meliputi bedah buku, sosialisasi pengunaan jurnal elektronik, sosialisasi subsite"
+  },
+  {
+    "Kode": "PS.03",
+    "Keterangan": "Perpustakaan",
+    "Jenis": "Pengurusan ISBN/ISSN",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengurusan ISBN/ISSN"
+  },
+  {
+    "Kode": "PS.04",
+    "Keterangan": "Perpustakaan",
+    "Jenis": "Pengelolaan Bahan Pustaka",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan bahan pustaka meliputi penerimaan buku dari unit dan penyerahan bukti rekam cetak buku yang dihasilkan BPO"
+  },
+  {
+    "Kode": "PS.05",
+    "Keterangan": "Perpustakaan",
+    "Jenis": "Layanan Pustaka",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan layanan pustaka meliputi form/buku peminjaman dan form rujukan layanan pustaka"
+  },
+  {
+    "Kode": "TI.01.01",
+    "Keterangan": "Teknologi dan Informasi Obat dan Makanan",
+    "Jenis": "Master Plan TIK",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan perencanaan jangka panjang terkait pengembangan TIK"
+  },
+  {
+    "Kode": "TI.01.02",
+    "Keterangan": "Teknologi dan Informasi Obat dan Makanan",
+    "Jenis": "Kebijakan TIK",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan standar, aturan dalam hal pengembangan sistem informasi,pengembangan infrastruktur TIK, atau  sistem mutu"
+  },
+  {
+    "Kode": "TI.02.01",
+    "Keterangan": "Tata Kelola Data",
+    "Jenis": "SK Organisasi Tata Kelola Data",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan standar data dan metadata, kulaitas data, pemanfaatan data dan pengelolaan data dan informasi di BPOM command center"
+  },
+  {
+    "Kode": "TI.02.02",
+    "Keterangan": "Tata Kelola Data",
+    "Jenis": "Kebijakan Standar Data",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan standar data dan metadata, kulaitas data, pemanfaatan data dan pengelolaan data dan informasi di BPOM command center"
+  },
+  {
+    "Kode": "TI.02.03",
+    "Keterangan": "Tata Kelola Data",
+    "Jenis": "Penyampaian Hasil Indeks Kualitas Data",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan standar data dan metadata, kulaitas data, pemanfaatan data dan pengelolaan data dan informasi di BPOM command center"
+  },
+  {
+    "Kode": "TI.02.04",
+    "Keterangan": "Tata Kelola Data",
+    "Jenis": "Kamus Data",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan standar data dan metadata, kulaitas data, pemanfaatan data dan pengelolaan data dan informasi di BPOM command center"
+  },
+  {
+    "Kode": "TI.02.05",
+    "Keterangan": "Tata Kelola Data",
+    "Jenis": "Permintaan Tampilan Data Pada Dashboard",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengelolaan standar data dan metadata, kulaitas data, pemanfaatan data dan pengelolaan data dan informasi di BPOM command center"
+  },
+  {
+    "Kode": "TI.03.01",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Usulan Kebutuhan TIK",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.02",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Pemetaan Aplikasi",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.03",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Topologo Jaringan TIK",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.04",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Aset TIK",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.05",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Proses Bisnis Sistem Informasi",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.06",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Hubungan Antar Database (ERD)",
+    "Aktif": 2,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.03.07",
+    "Keterangan": "Pengembangan TIK",
+    "Jenis": "Dokumen Uji Coba TIK",
+    "Aktif": 2,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengembangan TIK mulai dari penerimaan usulan kebutuhan sampai dengan uji coba TIK"
+  },
+  {
+    "Kode": "TI.04",
+    "Keterangan": "Pemeliharaan TIK",
+    "Jenis": "Pemeliharaan TIK",
+    "Aktif": 4,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pemeliharaan TIK"
+  },
+  {
+    "Kode": "TI.05.01",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Jenis": "Dokumen Survei Layanan TIK",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring, evaluasi dan pelaporan tata kelola, pengembangan dan pemeliharaan TIK"
+  },
+  {
+    "Kode": "TI.05.02",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Jenis": "Form Survei",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring, evaluasi dan pelaporan tata kelola, pengembangan dan pemeliharaan TIK"
+  },
+  {
+    "Kode": "TI.05.03",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Jenis": "Laporan Hasil Monev",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring, evaluasi dan pelaporan tata kelola, pengembangan dan pemeliharaan TIK"
+  },
+  {
+    "Kode": "TI.05.04",
+    "Keterangan": "Monitoring, Evaluasi dan Pelaporan TIK",
+    "Jenis": "Dokumen Monitoring dan Evaluasi Kinerja per Triwulan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring, evaluasi dan pelaporan tata kelola, pengembangan dan pemeliharaan TIK"
+  },
+  {
+    "Kode": "PB.01.01",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Jenis": "Penyusunan Standar Kompetensi",
+    "Aktif": 1,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan standar kompetensi teknis jabatan fungsional Pengawas Farmasi Makanan, dan penyusunan draf standar kompetensi jabatan."
+  },
+  {
+    "Kode": "PB.01.02",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Jenis": "Penyusunan Kurikulum Diklat",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan kurikulum diklat, terdiri dari: - Pedoman Penyelenggaraan Diklat Teknis JF-PFM (Draft) - Pedoman Penyusunan Kurikulum (Draft) - Kurikulum Modul Management Develepment Programme (MDP) - Kurikulum Modul Supervisor Develepment Programme (SDP) - Kurikulum Modul Eksekutif Development Programme (EDP) (Draft)"
+  },
+  {
+    "Kode": "PB.01.03",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Jenis": "Penilaian Kompetensi Teknis",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penilaian kompetensi teknis mulai dari uji kompetensi pejabat fungsional Pengawas Farmasi Makanan sampai dengan sertifikat penilaian kompetensi."
+  },
+  {
+    "Kode": "PB.01.04",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Jenis": "Penilaian Kompetensi Manajerial",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penilaian kompetensi manajerial."
+  },
+  {
+    "Kode": "PB.01.05",
+    "Keterangan": "Standarisasi dan Penilaian Kompetensi SDM",
+    "Jenis": "Ujian Dinas dan Ujian Kenaikan Pangkat",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan ujian dinas dan ujian kenaikan pangkat pegawai."
+  },
+  {
+    "Kode": "PB.02.01",
+    "Keterangan": "Perencanaan dan Penyelenggaraan Pendidikan dan \nPelatihan SDM",
+    "Jenis": "Penyelenggaraan Pendidikan dan Pelatihan",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan Penyelenggaraan Pendidikan dan Pelatihan, mulai dari dokumen perencanaan pelatihan sampai dengan laporan monitoring dan evaluasi pelaksanaan pelatihan."
+  },
+  {
+    "Kode": "PB.02.02",
+    "Keterangan": "Perencanaan dan Penyelenggaraan Pendidikan dan \nPelatihan SDM",
+    "Jenis": "Evaluasi Pelatihan",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan evaluasi pelatihan"
+  },
+  {
+    "Kode": "PI.01.01",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Jenis": "Program Kerja Pengawasan Tahunan (PKPT)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penyusunan  program kerja pengawasan tahunan (PKPT)"
+  },
+  {
+    "Kode": "PI.01.02",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Jenis": "Rencana Kerja Pengawasan Tahunan (RKPT)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan penyusunan Rencana Kerja Pengawasan Tahunan"
+  },
+  {
+    "Kode": "PI.01.03",
+    "Keterangan": "Rencana Program Pengawasan Intern",
+    "Jenis": "Rencana Induk Pengawasan (RIP)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  penyusunan Rencana   Induk Pengawasan"
+  },
+  {
+    "Kode": "PI.02.01",
+    "Keterangan": "Audit",
+    "Jenis": "Audit Kinerja",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  audit atas pelaksanaan tugas dan fungsi instansi pemerintah yang terdiri atas audit aspek ekonomi, efesiensi, dan audit aspek efektivitas, serta ketaatan pada peraturan"
+  },
+  {
+    "Kode": "PI.02.02",
+    "Keterangan": "Audit",
+    "Jenis": "Audit terhadap aspek keuangan tertentu",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  audit atas   aspek tertentu pengelolaan keuangan yang diselenggarakan oleh instansi pemerintah atas dana yang dibiayai oleh APBN dalam rangka memberikan keyakinan yang memadai bahwa pengelolaan keuangan telah dilaksanakan sesuai dengan tolak ukur yang telah ditetapkan sebagaimana ketentuan yang berlaku agar tujuan pengelolaan keuangan tepat sasaran"
+  },
+  {
+    "Kode": "PI.02.03",
+    "Keterangan": "Audit",
+    "Jenis": "Audit denagn tujuan tertentu",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan dengan audit yang dilakukan dengan tujuan khusus di luar audit keuangan dan audit kinerja. Termasuk dalam kategori ini: audit khusus/investigatif/tindak pidana korupsi dan audit untuk tujuan tertentu lainnya terhadap masalah yang menjadi fokus perhatian pimpinan organisasi (audit) atau yang bersifat khas"
+  },
+  {
+    "Kode": "PI.02.04",
+    "Keterangan": "Audit",
+    "Jenis": "Audit internal QMS ISO 9001:2015",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan dalam terkait dengan audit atas implementasi ISO 9001 dan pemantauan manajemen risiko dalam pelaksanaan SPIP di lingkungan BPOM"
+  },
+  {
+    "Kode": "PI.03.01",
+    "Keterangan": "Reviu",
+    "Jenis": "Reviu Laporan Keuangan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan  penelahaan atas Laporan Realisasi Anggaran (LRA), Neraca, dan Catatan atas Laporan Keuangan (CaLK) serta proses pelaporan keuangan"
+  },
+  {
+    "Kode": "PI.03.02",
+    "Keterangan": "Reviu",
+    "Jenis": "Reviu RKA-K/L",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berakitan dengan prosedur penyusunan dan penelahan RKA-K/L pada tahap perencanaan sampai penganggaran"
+  },
+  {
+    "Kode": "PI.03.03",
+    "Keterangan": "Reviu",
+    "Jenis": "Reviu RKBMN",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berakitan dengan penelahaan atas penyusunan dokumen neraca kebutuhan BMN yang bersifat tahunan berupa RKBMN oleh auditor APIP yang kompeten, memberi keyakinan terbatas bahwa RKBMN telah disusun sesuai dengan ketentuan perencanaan kebutuhan BMN"
+  },
+  {
+    "Kode": "PI.04",
+    "Keterangan": "Evaluasi AKIP",
+    "Jenis": "Evaluasi AKIP",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan aktivitas analisis yang sistematis, pemberian nilai, atribut apresiasi dan pengenalan permasalahan, serta pemberian solusi atas masalah yang ditemukan untuk tujuan peningkatan akuntabilitas dan kinerja instansi/unit kerja"
+  },
+  {
+    "Kode": "PI.05",
+    "Keterangan": "Pemantauan Tindak Lanjut Hasil Pengawasan Intern",
+    "Jenis": "Pemantauan Tindak Lanjut Hasil Pengawasan Intern",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan  yang berkaitan dengan proses penilaian kemajuan suatu program atau kegiatan dalam mencapai tujuan yang telah ditetapkan terkait Tindak Lanjut Hasil Pengawasan Intern"
+  },
+  {
+    "Kode": "PI.06.01",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Reformasi Birokrasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan dalam rangka reformasi birokrasi"
+  },
+  {
+    "Kode": "PI.06.02",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Gratidikasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pemberian dalam arti luas, yakni uang, barang, rabat (discount), komisi, pinjaman tanpa bunga, tiket perjalanan, fasilitas penginapan, perjalanan wisata, pengobatan cuma-cuma, dan fasilitas lainnya, baik yang diterima di dalam negeri maupun di luar negeri, yang dilakukan dengan menggunakan sarana elektronik atau tanpa sarana elektronik"
+  },
+  {
+    "Kode": "PI.06.03",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Benturan Kepentingan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kondisi pejabat pemerintah yang memiliki kepentingan pribadi untuk menguntungkan diri sendiri dan/atau orang lain dalam penggunaan wewenang sehingga dapat mempengaruhi netralitas dan kualitas, keputusan, dan/atau tindakan yang dibuat dan/atau dilakukannya."
+  },
+  {
+    "Kode": "PI.06.04",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Pengaduan Masyarakat",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan bentuk penerapan dari pengawasan masyarakat yang disampaikan oleh masyarakat berupa dugaan penyimpangan dan penyalahgunaan wewenang, permintaan klarifikasi maupun konfirmasi terhadap pelayanan"
+  },
+  {
+    "Kode": "PI.06.05",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Whistleblowing System",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan perbuatan yang melanggar perundang-undangan, peraturan/standar, kode etik, dan kebijakan, serta tindakan lain yang sejenis berupa ancaman langsung atas kepentingan umum, serta Korupsi, Kolusi, dan Nepotisme (KKN) yang terjadi di lingkungan Badan Pengawas Obat dan Makana"
+  },
+  {
+    "Kode": "PI.06.06",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Zona Intergritas Menuju WBBM",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan predikat yang diberikan kepada instansi pemerintah yang pimpinan dan jajarannya mempunyai komitmen untuk mewujudkan WBK/WBBM melalui reformasi birokrasi, khususnya dalam hal pencegahan korupsi dan peningkatan kualitas pelayanan publik"
+  },
+  {
+    "Kode": "PI.06.07",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Sistem Pengendalian Intern Pemerintah",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan proses yang integral pada tindakan dan kegiatan yang dilakukan secara terus menerus oleh pimpinan dan seluruh pegawai untuk memberikan keyakinan memadai atas tercapainya tujuan organisasi melalui kegiatan yang efektif dan efisien, keandalan pelaporan keuangan, pengamanan aset negara, dan ketaatan terhadap peraturan perundang-undangan yang diselenggarakan secara menyeluruh"
+  },
+  {
+    "Kode": "PI.06.08",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Kapabilitas APIP",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kerangka kerja yang mengindentifikasi aspek-aspek fundamental yang dibutuhkan untuk pengawasan intern yang efektif di sektor publi"
+  },
+  {
+    "Kode": "PI.06.09",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Laporan LHKPN/LHKASN",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Dinilai kembali",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan LHKPN / LHKASN"
+  },
+  {
+    "Kode": "PI.06.10",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Konsultasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan konsultasi: form arsip, arsip terkait dengan konsultasi penganggaran"
+  },
+  {
+    "Kode": "PI.06.11",
+    "Keterangan": "Pengawasan Lainnya",
+    "Jenis": "Bimtek",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan bimtek yang dilakukan oleh Inspektorat Utama"
+  },
+  {
+    "Kode": "RK.01",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Jenis": "Penyusunan Rencana Induk",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan rencana induk riset meliputi identifikasi kebutuhan, permintaan/proposal riset"
+  },
+  {
+    "Kode": "RK.02",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Jenis": "Pelaksanaan Riset dan Kajian",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec riset permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pelaksanaan riset dan kajian mulai dari penyusunan instrumen sampai dengan pelaporan meliputi instrumen riset, perjanjian kerja sama sampai dengan laporan hasil riset"
+  },
+  {
+    "Kode": "RK.03",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Jenis": "Monitoring dan Evaluasi SOP",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring dan evaluasi pelaksanaan riset dan kajian mulai dari survei kepuasan pelanggan sampai dengan pelaporan"
+  },
+  {
+    "Kode": "RK.04",
+    "Keterangan": "Riset dan Kajian Obat dan Makanan",
+    "Jenis": "Diseminasi",
+    "Aktif": 3,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan diseminasi hasil riset dan kajian mulai dari penyusunan materi diseminasi sampai dengan pelaporan"
+  },
+  {
+    "Kode": "SD.01.01",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Pengumpulan Data dan Pengkajian Pustaka",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengumpulan data dan pengkajian pustaka"
+  },
+  {
+    "Kode": "SD.01.02",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Penyusunan Rancangan Awal",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan rancangan awal standarisasi obat, narkotika, psikotropika, prekursor, dan zat adiktif"
+  },
+  {
+    "Kode": "SD.01.03",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Pembahasan dengan Stakeholder",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembahasan dengan stakeholder mulai dari pelaksanaan rapat sampai dengan menghasilkan rancangan standar hasil pembahasa"
+  },
+  {
+    "Kode": "SD.01.04",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Konsultasi Publik",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan konsultasi publik standarisasi obat, narkotika, psikotropika, prekursor, dan zat adiktif mulai dari rapat sampai dengan masukan dari stakeholder"
+  },
+  {
+    "Kode": "SD.01.05",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Finalisasi Rancangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan finalisasi rancangan standarisasi obat, narkotika, psikotropika, prekursor, dan zat adiktif mulai dari rapat sampai dengan hasil rancangan final standar"
+  },
+  {
+    "Kode": "SD.01.06",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Persetujuan Rancangan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec pedoman",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan persetujuan rancangan standarisasi obat, narkotika, psikotropika, prekursor, dan zat adiktif meliputi form verbal dan peraturan/standar/pedoman/code of practice"
+  },
+  {
+    "Kode": "SD.01.07",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Pengkajian Obat, Narkotika, Psikotropika, Prekursor, dan Zat Adiktif",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pelaksanaan pengkajian obat, narkotika, psikotropika, prekursor, dan zat adiktif"
+  },
+  {
+    "Kode": "SD.01.08",
+    "Keterangan": "Standardisasi Obat, Narkotika, Psikotropika, Prekursor, dan Zat \nAdiktif",
+    "Jenis": "Harmonisasi Standar",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan harmonisasi standarisasi obat, narkotika, psikotropika, prekursor, dan zat adiktif"
+  },
+  {
+    "Kode": "SD.02.01",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Pengumpulan Data dan Pengkajian Pustaka",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengumpulan data dan pengkajian pustaka"
+  },
+  {
+    "Kode": "SD.02.02",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Penyusunan Rancangan Awal",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan rancangan awal standarisasi obat tradisional, suplemen kesehatan dan kosmetik meliputi daftar hadir, notulen, undangan, draf hasil pembahasan awal"
+  },
+  {
+    "Kode": "SD.02.03",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Pembahasan dengan Stakeholder",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembahasan dengan stakeholder mulai dari pelaksanaan rapat sampai dengan menghasilkan rancangan standar hasil pembahasan"
+  },
+  {
+    "Kode": "SD.02.04",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Konsultasi Publik",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan konsultasi publik standarisasi obat tradisional, suplemen kesehatan dan kosmetik meliputi rapat, pengisian kuesioner, masukan stakeholder, verbal, dan draf final"
+  },
+  {
+    "Kode": "SD.02.05",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Finalisasi Rancangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan finalisasi rancangan standarisasi obat tradisional, suplemen kesehatan dan kosmetik mulai dari rapat sampai dengan penyusunan rancangan final standar."
+  },
+  {
+    "Kode": "SD.02.06",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Persetujuan Rancangan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec pedoman",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan persetujuan rancangan standarisasi obat tradisional, suplemen kesehatan dan kosmetik meliputi form verbal dan peraturan/standar/pedoman/code of practice"
+  },
+  {
+    "Kode": "SD.02.07",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Pengkajian Keamanan Mutu dan Manfaat OT SK KOS",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Naskah-naskah yang berkaitan dengan kegiatan kajian, keamanan, mutu dan manfaat obat tradisional, suplemen kesehatan dan kosmetik mulai dari  permohonan (pimpinan, lintas unit, dan stakeholder) kajian terhadap keamanan mutu dan manfaat dari OTSK KOS, pengumpulan bahan kajian, pembahasan kajian dengan lintas unit dan/atau tenaga ahli, pembuatan laporan hasil kajian ke pimpinan, sampai dengan membuat surat jawaban hasil kajian kepada pemohon."
+  },
+  {
+    "Kode": "SD.02.08",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Harmonisasi Standar",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan harmonisasi/sosialisasi standarisasi obat tradisional, suplemen kesehatan dan kosmetik mulai dari pemberitahuan sampai dengan pelaporan"
+  },
+  {
+    "Kode": "SD.02.09",
+    "Keterangan": "Standar Obat Tradisional, Suplemen Kesehatan dan Kosmetik",
+    "Jenis": "Monitoring/Evaluasi Implementasi/Regulatory Impact Assestment \n(RIA)",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan monitoring/evaluasi implementasi tentang Kajian/Standard/Pedoman/Regulasi OTSK KOS mulai dari pemberitahuan sampai dengan pelaporan"
+  },
+  {
+    "Kode": "SD.03.01",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Pengumpulan Data dan Pengkajian Pustaka",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengumpulan data dan pengkajian pustaka"
+  },
+  {
+    "Kode": "SD.03.02",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Penyusunan Rancangan Awal",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan rancangan awal standarisasi pangan olahan meliputi daftar hadir, notulen, undangan, draf hasil pembahasan awal."
+  },
+  {
+    "Kode": "SD.03.03",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Pembahasan dengan Stakeholder",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembahasan dengan stakeholder mulai dari pelaksanaan rapat sampai dengan menghasilkan rancangan standar hasil pembahasan"
+  },
+  {
+    "Kode": "SD.03.04",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Konsultasi Publik",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan konsultasi publik standarisasi pangan olahan meliputi rapat, pengisian kuesioner, masukan stakeholder, verbal, dan draf final"
+  },
+  {
+    "Kode": "SD.03.05",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Finalisasi Rancangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan finalisasi rancangan standarisasi pangan olahan  mulai dari rapat sampai dengan penyusunan rancangan final standar"
+  },
+  {
+    "Kode": "SD.03.06",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Persetujuan Rancangan",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kec pedoman",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan persetujuan rancangan standarisasi pangan olahan form verbal dan peraturan/standar/pedoman/code of practice"
+  },
+  {
+    "Kode": "SD.03.07",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Pengkajian Keamanan, Mutu Gizi, dan Pangan Olahan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pelaksanaan pengkajian keamanan, mutu, gizi dan pangan olahan meliputi rapat dan hasil kajian"
+  },
+  {
+    "Kode": "SD.03.08",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Pengkajian Keamanan, Mutu, Gizi, dan Pangan Olahan Permintaan \nPelaku Usaha",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan kajian keamanan, mutu, gizi, dan pangan olahan permintaan pelaku usaha  mulai dari penerimaan permohonan pengkajian keamanan, mutu, gizi dan pangan olahan, persetujuan/penolakan permohonan kajian sampai dengan penyusunan hasil kajian berupa standar pangan"
+  },
+  {
+    "Kode": "SD.03.09",
+    "Keterangan": "Standarisasi Pangan Olahan",
+    "Jenis": "Harmonisasi Standar",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan harmonisasi standarisasi keamanan, mutu, gizi dan pangan olahan"
+  },
+  {
+    "Kode": "RG.01.01",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Pra Registrasi",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pra registrasi obat mulai dari pendaftaran, hasil pra registrasi, hasil penelusuran paten dan laporan masalah paten."
+  },
+  {
+    "Kode": "RG.01.02",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Proses Evaluasi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan proses evaluasi registrasi obat baik registrasi obat baru, registrasi obat generik sampai dengan uji BE"
+  },
+  {
+    "Kode": "RG.01.03",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Persetujuan Nomor Ijin Edar",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan persetujuan nomor ijin edar sampai diterbitkannya sertifikat nomor ijin edar obat."
+  },
+  {
+    "Kode": "RG.01.04",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Pengembalian NIE",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penolakan ijin edar obat meliputi pengembalian NIE, pencabutan/pebatalan NIE dan pembekuan NIE."
+  },
+  {
+    "Kode": "RG.01.05",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Certificate of Pharmaceutical Product (CPP)",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan Certificate of Pharmaceutical Product (CPP) baik Indonesia maupun negara lain."
+  },
+  {
+    "Kode": "RG.01.06",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Persetujuan Pelaksanaan Uji Klinik dan Obat Pengembangan Baru \n(OPB)",
+    "Aktif": 2,
+    "Inaktif": 5,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan persetujuan pelaksanaan uji klinik dan obat pengembangan baru"
+  },
+  {
+    "Kode": "RG.01.07",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Persetujuan Pemasukan Obat Jalur Khusus (Special Access Scheme)",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan persetujuan pemasukan obat jalur khusus (spesial access scheme) meliputi bukti bayar, dan permohonan dan persetujuan/penolaka"
+  },
+  {
+    "Kode": "RG.01.08",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Kajian Khusus Kasus Obat Tertentu",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan kajian khusus kasus obat tertentu meliputi permintaan kajian, data referensi terkait isu, pembahasan, dan pelaporan hasil kajia"
+  },
+  {
+    "Kode": "RG.01.09",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Persetujuan Pelaksanaan Uji Klinik dan Obat Pengembangan Baru (OPB)",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan Persetujuan Pelaksanaan Uji Klinik dan Obat Pengembangan Baru (OPB)"
+  },
+  {
+    "Kode": "RG.01.10",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Persetujuan Pemasukan Obat Jalur Khusus (Special Access Scheme)",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan Persetujuan Pemasukan Obat Jalur Khusus (Special Access Scheme)"
+  },
+  {
+    "Kode": "RG.01.11",
+    "Keterangan": "Registrasi Obat",
+    "Jenis": "Kajian Khusus Obat Tertentu",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan Kajian Khusus Obat Tertentu"
+  },
+  {
+    "Kode": "RG.02.01.01",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Penolakan Registrasi",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan evaluasi registrasi OTSK mulai dari menerima permohonan registarsi untuk pemohon baru, variasi dan daftar ulang, pengurusan pembayaran, melakukan evaluasi sampai dengan keluarnya hasil evaluasi baik berupa penolakan maupun persetujuan registrasi"
+  },
+  {
+    "Kode": "RG.02.01.02",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Penerimaan Registrasi",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan evaluasi registrasi OTSK mulai dari menerima permohonan registarsi untuk pemohon baru, variasi dan daftar ulang, pengurusan pembayaran, melakukan evaluasi sampai dengan keluarnya hasil evaluasi baik berupa penolakan maupun persetujuan registrasi"
+  },
+  {
+    "Kode": "RG.02.02",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Registrasi OTSK",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan registrasi akun perusahaan mulai dari pengajuan sampai dengan penerimaan dan verifikasi pendaftaran"
+  },
+  {
+    "Kode": "RG.02.03",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Notifikasi Kosmetik",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan evaluasi notifikasi kosmetik baru, variasi, pembaharuan dan kombinasi mulai dari menerima permohonan secara online sampai dengan penerbitan hasil notifikasi meliputi data administrasi (hardcopy) dan data teknis (dari sistem)"
+  },
+  {
+    "Kode": "RG.02.04",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Pencabutan Nomor Ijin Edar OTSK dan Nomor Notifikasi KOS",
+    "Aktif": 3,
+    "Inaktif": 1,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pencabutan Surat Ijin Edar OTSK dan Nomor Notifikasi KOS mulai dari menerima hasil pengawasan, mengevaluasi hasil pengawasan, sampai dengan mencabut Izin Edar meliputi data teknis dan administrasi, hasil pengawasan, dan surat pembatalan izin edar"
+  },
+  {
+    "Kode": "RG.02.05",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Permohonan Protokol Uji Praklinik/Uji Klinik",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan evaluasi permohonan protokol uji praklinik/uji klinik dan kegiatan Inspeksi cara uji klinik yang baik meliputi dokumen administrasi dan inspeksi CUKB"
+  },
+  {
+    "Kode": "RG.02.06",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Penilaian Dokumen Informasi Produk Kosmetik",
+    "Aktif": 6,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penilaian dokumen informasi produk kosmetik mulai dari perencanaan, pelaksanaan, sampai dengan tidak lanjut hasil penilaian"
+  },
+  {
+    "Kode": "RG.02.07",
+    "Keterangan": "Registrasi OTSK KOS dan Uji Klinik",
+    "Jenis": "Permohonan Rancangan Iklan OTSK",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penilaian rancangan iklan OTSK mulai dari menerima permohonan rancangan iklan OTSK secara online, penilaian rancangan iklan dan pembahasan dengan tim ahli, sampai dengan penerbitan surat persetujuan atau penolakan rancangan iklan OTSK."
+  },
+  {
+    "Kode": "RG.03.01",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Permohonan Registrasi Baru",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan registrasi baru dalam rangka pengajuan registrasi obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.02",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Variasi Mayor",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan permohonan registrasi variasi minor obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.03",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Variasi Minor",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan permohonan registrasi variasi mayor obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.04",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Registrasi Ulang",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan registrasi ulang dalam rangka pengajuan registrasi obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.05",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Pendaftaran Iklan Pangan",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendaftaran iklan pangan dalam rangka registrasi obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.06",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Registrasi Akun Perusahaan",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan registrasi akun perusahaan dalam rangka registrasi obat dan makanan"
+  },
+  {
+    "Kode": "RG.03.07",
+    "Keterangan": "Registrasi Pangan Olahan",
+    "Jenis": "Pencabutan",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pencabutan registrasi obat dan makanan"
+  },
+  {
+    "Kode": "PW.01.01",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pelaksanaan Inspeksi Sarana Produksi",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan inspeksi sarana produksi obat, NPP, bahan baku obat, sarana khusus dan fasilitas obat impor meliputi agenda inspeksi (aide memoire, surat tugas) sampai dengan Laporan inspeksi sarana produksi dari BPOM, laporan dan surat hasil evaluasi CAPA hasil inspeksi"
+  },
+  {
+    "Kode": "PW.01.02",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Asistensi Regulator dan Supervisi",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan asistensi regulatori dan supervisi di bidang penilaian dan inspeksi sarana produksi obat, NPP, bahan baku obat, produksi biologi dan sarana khusus meliputi agenda inspeksi, lembar hasil inspeksi dan Berita Acara Pemeriksaan"
+  },
+  {
+    "Kode": "PW.01.03",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Perizinan Sarana Produksi",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan perizinan sarana produksi obat, bahan baku obat, dan sarana khusus, mulai dari izin usaha termasuk SK Pencabutan dan Data sarana produksi Bahan Baku Obat."
+  },
+  {
+    "Kode": "PW.01.04",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Penilaian Pemenuhan CPOB terhadap Sarana Produksi Obat, NPP, Bahan Baku Obat, Sarana Khusus dan Fasilitas Obat Impor",
+    "Aktif": 1,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan Penilaian Sarana Produksi Obat, NPP, Bahan Baku Obat, Sarana Khusus dan Fasilitas Obat Impor meliputi sertifikat, persetujuan penggunaan fasilitas bersama, surat keterangan GMP ekspor, dan  dokumen registrasi obat impor terkait pemenuhan CPOB"
+  },
+  {
+    "Kode": "PW.01.05",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pelaksanaan Kegaiatan Bea Masuk Ditanggung Pemerintah (BMDTP)",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan kegiatan Bea Masuk Ditanggung Pemerintah (BMDTP) meliputi surat permohonan ke Kementerian Keuangan RI sampai dengan Monitoring Pengawasan pelaksanaan BMDTP"
+  },
+  {
+    "Kode": "PW.01.06",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Verifikasi BMDTP ke Sarana",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelaksanaan kegiatan verifikasi BMDPT ke sarana, mulai dari perencanaan sampai dengan laporan hasil verifikasi"
+  },
+  {
+    "Kode": "PW.01.07",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pemeriksaan Balai",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pemeriksaan Balai Obat"
+  },
+  {
+    "Kode": "PW.01.08",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pemeriksaan Sarana Distribusi ONP dan BO oleh Pusat",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pemeriksaan sarana distribusi Obat Narkotika, Psikotropika, Prekursor dan Bahan Obat"
+  },
+  {
+    "Kode": "PW.01.09",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pemeriksaan Kasus",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pemeriksaan kasus terkait obat"
+  },
+  {
+    "Kode": "PW.01.10",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Tindak Lanjut Inspeksi",
+    "Aktif": 1,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan tindak lanjut inspeksi dan kajianatau telaah peredaran obat"
+  },
+  {
+    "Kode": "PW.01.11",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Penilaian/Sertifikasi CDOB",
+    "Aktif": 5,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan penilaian/Sarana distribusi Obat, Psikotropika, Prekursor dan Bahan Obat meliputi rekomendasi izin PBF dalam rangka pemenuhan CDOB sampai dengan sertifikat yang diterbitkan"
+  },
+  {
+    "Kode": "PW.01.12",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Sarana Pelayanan Obat Narkotika, Psikotropika dan Prekursor",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan keamanan obat, narkotika, psikotropika, dan prekursor meliputi bimbingan teknis, pilot project perederan obat, rekap barang bukti tindak pidana, evaluasi pengawasan peredaran psikotropika narkotika dan prekursor, pemberhentian sementara industri, apotik dan PBF, pencabutan izin edar, peringatan keras dan pembinaan PKM"
+  },
+  {
+    "Kode": "PW.01.13",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Keamanan Obat, Narkotika, Psikotropika, Prekursor",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec Monitoring permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan keamanan obat, narkotika, psikotropika, dan prekursor meliputi surveillance dan penerapan farmakovigillanc"
+  },
+  {
+    "Kode": "PW.01.14",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Mutu Obat, Narkotika, Psikotropika, Prekursor",
+    "Aktif": 4,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah kec kasus permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan mutu obat, narkotika, psikotropika, dan prekursor"
+  },
+  {
+    "Kode": "PW.01.15",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Promosi dan Informasi Obat, Narkotika, Psikotropika, dan Prekursor",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan promosi obat, narkotika, psikotropika, dan prekursor"
+  },
+  {
+    "Kode": "PW.01.16",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Ekspor Impor Obat, Narkotika, Psikotropika, Prekursor",
+    "Aktif": 1,
+    "Inaktif": 4,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan ekspor impor obat, narkotika, psikotropika, dan prekurso"
+  },
+  {
+    "Kode": "PW.01.17",
+    "Keterangan": "Pengawasan Obat, Narkotika, Psikotoprika, Prekursor, dan Zat Adiktif",
+    "Jenis": "Pengawasan Produk Tembakau",
+    "Aktif": 3,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengawasan produk tembakau"
+  },
+  {
+    "Kode": "PW.02.01",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Penilaian Sarana",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penilaian sarana produksi dan distribusi sarana dalam rangka sertifikasi cara pembuatan obat tradisional yang baik."
+  },
+  {
+    "Kode": "PW.02.02",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Inspeksi sarana",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan inspeksi terhadap sarana obat tradisional dan suplemen kesehatan mulai dari menerima laporan inspeksi dari balai, menindak lanjuti hasil inspeksi, sampai dengan laporan pengawasan."
+  },
+  {
+    "Kode": "PW.02.03",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Pengawasan Informasi Label/Kemasan",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengawasan informasi label/kemasan, serta kegiatan pengawasan promosi (iklan) OTSK."
+  },
+  {
+    "Kode": "PW.02.04",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Pengawasan Promosi",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengawasan informasi label/kemasan, serta kegiatan pengawasan promosi (iklan) OTSK."
+  },
+  {
+    "Kode": "PW.02.05",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Pengawasan Keamanan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring efek samping terhadap penggunaan produk, serta pengawasan produk mutu terkait kandungan dalam produk meliputi pengawasan keamanan dan pengawasan mutu OTSK"
+  },
+  {
+    "Kode": "PW.02.06",
+    "Keterangan": "Pengawasan Obat Tradisional Suplemen Kesehatan",
+    "Jenis": "Pengawasan Mutu Ekspor Impor",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan monitoring efek samping terhadap penggunaan produk, serta pengawasan produk mutu terkait kandungan dalam produk meliputi pengawasan keamanan dan pengawasan mutu OTSK"
+  },
+  {
+    "Kode": "PW.03.01",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Penilaian Sarana",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penilaian sarana produksi dan distribusi sarana dalam rangka pemenuhan/penerapan cara pembuatan kosmetik yang baik, persetujuan denah dan fasilitas bersama mulai dari menerima permohonan hingga terbit sertifikat/surat keterangan penerapan CPKB, persetujuan denah dan surat keterangan fasilitas bersama"
+  },
+  {
+    "Kode": "PW.03.02",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Inspeksi sarana",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan inspeksi terhadap sarana produksi dan distribusi kosmetik mulai dari menerima laporan inspeksi dari balai, mengevaluasi laporan inspeksi, menindak lanjuti hasil inspeksi, termasuk mengevaluasi CAPA."
+  },
+  {
+    "Kode": "PW.03.03",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Target Pengawasan Informasi dan Promosi BB/BPOM",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan penetapan target pengawasan promosi/iklan kosmetik yang dilakukan oleh BB/BPOM yaitu, merekapitulasi hasil pengawasan promosi/iklan kosmetik tahun sebelumnya, menganalisis rekapitulasi hasil pengawasan promosi/iklan kosmetik tahun sebelumnya, membuat usulan surat edaran target pengawasan promosi/iklan kosmetik BB/BPOM, mengevaluasi usulan surat edaran target pengawasan promosi/iklan kosmetik BB/BPOM, sampai dengan mengevaluasi dan menyetujui surat edaran target pengawasan promosi/iklan kosmetik BB/BPOM."
+  },
+  {
+    "Kode": "PW.03.04",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Target Pengawasan Informasi dan Promosi pada Sarana Produksi/distribusi Kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penetapan target pengawasan promosi/iklan dan informasi/label kosmetik di sarana produksi/distribusi kosmetik mulai dari menerima/mengumpulkan laporan hasil pengawasan BB/BPOM, laporan ULPK, atau laporan pengaduan terkait promosi/iklan dan informasi/label kosmetik, menganalisis laporan hasil pengawasan BB/BPOM, laporan ULPK, atau laporan pengaduan yang diterima, melaporkan usulan daftar target pemeriksaan promosi/iklan dan informasi/label kosmetik di sarana produksi/distribusi kosmetik, mengevaluasi usulan daftar target pemeriksaan promosi/iklan dan informasi/label kosmetik di sarana produksi/distribusi kosmetik, mengevaluasi dan menyetujui usulan daftar target pemeriksaan promosi/iklan dan informasi/label kosmetik di sarana produksi/distribusi kosmetik"
+  },
+  {
+    "Kode": "PW.03.05",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Evaluasi Promosi/Iklan Kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan evaluasi Promosi/Iklan Kosmetik, yaitu Memeriksa legalitas kosmetika yang diiklankan/dipromosikan meliputi: kesesuaian nama produk, kategori, nama dan alamat produsen, nama dan alamat pendaftar, nama dan alamat pemberi lisensi (bila ada), nomor notifikasi, dan masa berlaku nomor notifikasi; Mengevaluasi klaim pada promosi/iklan kosmetika; Menentukan hasil pengawasan promosi/iklan kosmetika berupa memenuhi ketentuan (MK) atau tidak memenuhi ketentuan (TMK)."
+  },
+  {
+    "Kode": "PW.03.06",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Evaluasi Informasi/Label Kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Kegiatan evaluasi Informasi/Label Kosmetik, yaitu: Memeriksa kejelasan visual label kosmetika termasuk konsistensi penandaan/label kosmetika seperti tidak mudah lepas/terpisah dan tidak mudah luntur/rusak; Memeriksa legalitas kosmetika melalui pengecekan nomor notifikasi yang tercantum pada penandaan/label dengan data notifikasi kosmetika, termasuk memeriksaan kesesuaian nama kosmetika dan masa berlaku nomor notifikasi; Memeriksa pencantuman nomor bets/kode produksi/tanggal produksi, berat bersih/netto, tanggal kedaluwarsa, komposisi, kegunaan, dan cara penggunaan pada penandaan/label kosmetik; Melakukan evaluasi klaim pada penandaan/label kosmetika; Memeriksan pencantuman nama kosmetik, nomor bets/kode produksi/tanggal produksi dan berat bersih/netto pada kemasan primer kosmetika (bila ada kemasan primer dan sekunder); Menentukan hasil evaluasi penandaan/label kosmetika, berupa memenuhi syarat (MS) atau tidak memenuhi syarat (TMS)"
+  },
+  {
+    "Kode": "PW.03.07",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Verifikasi Laporan Bulanan pengawasan promosi/iklan dan informasi/label kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan verifikasi laporan bulanan pengawasan promosi/iklan dan informasi/label kosmetik meliputi menerima laporan bulanan pengawasan iklan dan penandaan dari BB/BPOM di seluruh Indonesia, memeriksa kelengkapan laporan bulanan, mengklarifikasi kepada BB/BPOM bila ada laporan bulanan yang tidak lengkap, melakukan verifikasi terhadap temuan pelanggaran iklan kosmetik, melakukan verifikasi terhadap kesimpulan hasil evaluasi iklan atau penandaan kosmetika, berupa memenuhi syarat (MS) atau tidak memenuhi syarat (TMS) untuk penandaan, dan memenuhi ketentuan (MK) atau tidak memenuhi ketentuan (TMK) untuk iklan."
+  },
+  {
+    "Kode": "PW.03.08",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Tindak Lanjut Hasil Pengawasan Promosi/Iklan dan Informasi/Label Kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan tindak lanjut hasil pengawasan promosi/iklan dan informasi/label kosmetik mulai dari menganalisis tindak lanjut yang diperlukan berdasarkan hasil verifikasi laporan bulanan pengawasan iklan atau penandaan, hasil pemeriksaan di sarana produksi/distribusi kosmetik, laporan/pengaduan masyarakat atau ULPK, membuat usulan tindak lanjut berupa feedback ke BB/BPOM seluruh Indonesia, peringatan kepada pemilik notifikasi, pemeriksaan ke sarana produksi/distribusi kosmetik, dan/atau rekomendasi ke unit/instansi lain, menganalisis dan mengevaluasi usulan tindak lanjut, serta mengevaluasi dan menyetujui usulan tindak lanjut."
+  },
+  {
+    "Kode": "PW.03.09",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Pemantauan dan Pendataan TLHP Promosi/Iklan dan Informasi/Label Kosmetik",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pemantauan dan pendataan terhadap tindak lanjut hasil pengawasan promosi/iklan dan informasi/label kosmetik, meliputi  mendata tindak lanjut hasil pengawasan promosi/iklan dan informasi/label kosmetik sampai dengan pendataan hasil evaluasi dan tindak lanjut."
+  },
+  {
+    "Kode": "PW.03.10",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Pengawasan Efek Samping dan Mutu Kandungan Produk",
+    "Aktif": 3,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan Monitoring efek samping terhadap penggunaan produk mulai dari menerima dan mengumpulkan laporan kosmetovigilans sampai dengan membuat laporan akhir tindak lanjut."
+  },
+  {
+    "Kode": "PW.03.11",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Pengawasan Mutu Ekspor Impor",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan pengawasan mutu kosmetik mulai dari menerima permohonan, melakukan evaluasi dan verifikasi, melakukan validasi hasil evaluasi dan menindak lanjuti, memberikan rekomendasi terhadap permohonan surat keterangan  sampai penerbitan surat keterangan  impor, surat keterangan ekspor, izin special access scheme (SAS), rekomendasi persetujuan impor, rekomendasi IP-B2 termasuk  verifikasi teknis terkait permohonan SKI"
+  },
+  {
+    "Kode": "PW.03.12",
+    "Keterangan": "Pengawasan Kosmetik",
+    "Jenis": "Sampling dan Pengujian Kosmetik",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah kecuali PW Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan sampling dan pengujian mulai dari mengevaluasi laporan sampling dan pengujian dari balai, mengklarifikasi kepada balai bila ada laporan bulanan yang tidak lengkap, sampling di sarana berdasarkan kasus, melakukan tindak lanjut dari hasil sampling dan pengujian berupa feedback ke BBP/BPOM seluruh Indonesia, pemeriksaan ke sarana, peringatan kepada pemilik notifikasi, surat tanggapan terhadap laporan perbaikan dari perusahaan"
+  },
+  {
+    "Kode": "PW.04.01",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Sarana Produksi",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan sarana produksi meliputi pemeriksaan sarana produksi dan tindak lanjut hasil pengawasan"
+  },
+  {
+    "Kode": "PW.04.02",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Sarana Produksi",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan sarana distribusi meliputi pemeriksaan sarana distribusi dan tindak lanjut hasil pengawasan"
+  },
+  {
+    "Kode": "PW.04.03",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Produk Pangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan produk pangan meliputi pengujian pangan dan tindak lanjut hasil pengujian"
+  },
+  {
+    "Kode": "PW.04.04",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Label Pangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan label pangan meliputi pengawasan label pangan dan tindak lanjut hasil pengawasan label pangan"
+  },
+  {
+    "Kode": "PW.04.05",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Iklan Pangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan iklan pangan meliputi pengawasan iklan pangan dan tindak lanjut hasil pengawasan iklan pangan"
+  },
+  {
+    "Kode": "PW.04.06",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Ekspor dan Impor Pangan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan ekspor dan impor pangan"
+  },
+  {
+    "Kode": "PW.04.07",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Kemasan Pangan",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pengawasan kemasan pangan dan tindak lanjut pengawasan"
+  },
+  {
+    "Kode": "PW.04.08",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Penanganan Kasus Pangan",
+    "Aktif": 5,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penanganan kasus pangan meliputi penanganan kejadian luar biasa, penanganan pengaduan konsumen dan kasus lainnya"
+  },
+  {
+    "Kode": "PW.04.09",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Sertifikasi Pangan",
+    "Aktif": 5,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan sertifikasi pangan meliputi verifikasi program manajemen risiko, sidang komisi program, audit dan sertifikasi pangan"
+  },
+  {
+    "Kode": "PW.04.10",
+    "Keterangan": "Pengawasan Pangan Olahan",
+    "Jenis": "Pengawasan Bahan Berbahaya",
+    "Aktif": 1,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pegawasan bahan berbahaya"
+  },
+  {
+    "Kode": "PM.01.01",
+    "Keterangan": "Advokasi Pangan",
+    "Jenis": "Advokasi Pemerintah Daerah",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan advokasi pangan di pemerintah daerah"
+  },
+  {
+    "Kode": "PM.01.02",
+    "Keterangan": "Advokasi Pangan",
+    "Jenis": "Advokasi Lintas Sektor",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan advokasi  pangan lintas sektor"
+  },
+  {
+    "Kode": "PM.01.03",
+    "Keterangan": "Advokasi Pangan",
+    "Jenis": "Advokasi Komunitas Pendidikan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan advokasi pangan di komunitas pendidikan"
+  },
+  {
+    "Kode": "PM.01.04",
+    "Keterangan": "Advokasi Pangan",
+    "Jenis": "Advokasi Ormas",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan advokasi pangan di organisasi massa"
+  },
+  {
+    "Kode": "PM.01.05",
+    "Keterangan": "Advokasi Pangan",
+    "Jenis": "Advokasi Asosiasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan advokasi pangan di asosiasi"
+  },
+  {
+    "Kode": "PM.02.01",
+    "Keterangan": "Asistensi Regulasi",
+    "Jenis": "Laporan Asistensi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan asistensi regulasi pangan"
+  },
+  {
+    "Kode": "PM.02.02",
+    "Keterangan": "Asistensi Regulasi",
+    "Jenis": "Laporan Hasil Kajian",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan asistensi regulasi pangan"
+  },
+  {
+    "Kode": "PM.02.03",
+    "Keterangan": "Asistensi Regulasi",
+    "Jenis": "SPPIRT (Sertifikat Penyuluhan Industri Rumah Tangga)",
+    "Aktif": 5,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan asistensi regulasi pangan"
+  },
+  {
+    "Kode": "PM.03.01",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Jenis": "Laporan Pendampingan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan UMKM"
+  },
+  {
+    "Kode": "PM.03.02",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Jenis": "Laporan Pelatihan TOT",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan UMKM"
+  },
+  {
+    "Kode": "PM.03.03",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Jenis": "Database Fasilitator",
+    "Aktif": 5,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan UMKM"
+  },
+  {
+    "Kode": "PM.03.04",
+    "Keterangan": "Pendampingan Usaha UMKM",
+    "Jenis": "Hasil Uji Sampling",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan UMKM"
+  },
+  {
+    "Kode": "PM.04.01",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Jenis": "Laporan Pendampingan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan Ritel"
+  },
+  {
+    "Kode": "PM.04.02",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Jenis": "Laporan Pelatihan TOT",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan Ritel"
+  },
+  {
+    "Kode": "PM.04.03",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Jenis": "Database Fasilitator/Kader",
+    "Aktif": 2,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan Ritel"
+  },
+  {
+    "Kode": "PM.04.04",
+    "Keterangan": "Pendampingan Usaha Ritel",
+    "Jenis": "Hasil Uji Sampling",
+    "Aktif": 5,
+    "Inaktif": 5,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendampingan Ritel"
+  },
+  {
+    "Kode": "PM.05.01",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Jenis": "Bimtek dan Pelatihan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan bimtek dan pelatihan dalam rangka komunikasi, informasi dan edukasi pangan"
+  },
+  {
+    "Kode": "PM.05.02",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Jenis": "Sosialisasi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan sosialisasi dalam rangka komunikasi, informasi dan edukasi pangan"
+  },
+  {
+    "Kode": "PM.05.03",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Jenis": "Produk Informasi Keamanan Pangan",
+    "Aktif": 2,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembuatan produk informasi keamanan pangan"
+  },
+  {
+    "Kode": "PM.05.04",
+    "Keterangan": "Peningkatan Kapasitas Pengetahuan, Sikap, Perilaku, dan Keterampilan Keamanan Pangan",
+    "Jenis": "Aplikasi Keamanan Pangan",
+    "Aktif": 2,
+    "Inaktif": 0,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembuatan aplikasi keamanan pangan"
+  },
+  {
+    "Kode": "PD.01.01",
+    "Keterangan": "Penindakan Pengamanan",
+    "Jenis": "Pencegahan Kejahatan Obat dan Makanan",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan kajian trend/potensi kejahatan obat dan makanan, penggalangan pelaku usaha, dan aksi nasional pemberantasan obat ilegal dan penyalahgunaan obat"
+  },
+  {
+    "Kode": "PD.01.02",
+    "Keterangan": "Penindakan Pengamanan",
+    "Jenis": "Penyusunan Peta Rawan Kasus",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan peta rawan kasus"
+  },
+  {
+    "Kode": "PD.01.03",
+    "Keterangan": "Penindakan Pengamanan",
+    "Jenis": "Operasi Pengamanan",
+    "Aktif": 2,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan operasi pengamanan obat dan pangan"
+  },
+  {
+    "Kode": "PD.02.01",
+    "Keterangan": "Penindakan Intelejen",
+    "Jenis": "Penyusunan Informasi Intelijen Dasar",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan penyusunan informasi intelijen dasar"
+  },
+  {
+    "Kode": "PD.02.02",
+    "Keterangan": "Penindakan Intelejen",
+    "Jenis": "Kegiatan Intelijen",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan  intelijen obat dan makanan"
+  },
+  {
+    "Kode": "PD.02.03",
+    "Keterangan": "Penindakan Intelejen",
+    "Jenis": "Rencana Operasi",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan rencana operasi intelijen obat dan makanan"
+  },
+  {
+    "Kode": "PD.02.04",
+    "Keterangan": "Penindakan Intelejen",
+    "Jenis": "Operasi Intellijen",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan  operasi intelijen obat dan makanan"
+  },
+  {
+    "Kode": "PD.02.05",
+    "Keterangan": "Penindakan Intelejen",
+    "Jenis": "Analisa dan Perkiraaan Intelijen",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan analisa dan perkiraan intelijen obat dan makanan"
+  },
+  {
+    "Kode": "PD.03.01",
+    "Keterangan": "Penindakan Penyidikan",
+    "Jenis": "Pendalaman Informasi Tindak Pidana",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pendalaman informasi tindak pidana dalam rangka penyidikan obat dan makanan"
+  },
+  {
+    "Kode": "PD.03.02",
+    "Keterangan": "Penindakan Penyidikan",
+    "Jenis": "Operasi Penyidikan",
+    "Aktif": 3,
+    "Inaktif": 1,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan operasi penyidikan obat dan makanan"
+  },
+  {
+    "Kode": "PD.03.03",
+    "Keterangan": "Penindakan Penyidikan",
+    "Jenis": "Pembuatan Berkas Perkara",
+    "Aktif": 3,
+    "Inaktif": 2,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip yang berkaitan dengan kegiatan pembuatan berkas perkara penyidikan obat dan makanan, surat P19, P21, penyerahan barang bukti dan tersangka sampai dengan putusan hakim"
+  },
+  {
+    "Kode": "PP.01.01",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Jenis": "Kegiatan Pelayanan Pengujian Obat dan Makanan",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus nasional",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pelayanan pengujian oat dan makanan mulai dari permohonan/permintaan  pengujian  dari pihak ketiga  dan internal BPOM, registrasi/pencatatan penerimaan sampel ke laboratorium ,proses pengujian dari awal sampai hasil pengujian berupa sertifikat/laporan pengujian, dilanjutkan dengan  proses pengiriman hasil pengujian, pencarian umpan balik serta proses pengaduan apabila ada komplain dari pelanggan"
+  },
+  {
+    "Kode": "PP.01.02",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Jenis": "Tanggapan Hasil Pengujian BB/BPOM/Uji Absah",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus nasional",
+    "Uraian": "Arsip atau rekaman kegiatan  yang berkaitan dengan proses pemberian tanggapan hasil pengujian balai /reviu hasil pengujian balai/UPT)/ uji absah mulai dari permohonan uji absah sampai dengan sertifikat/laporan pengujian atau laporan tanggapan hasil uji TMS BB/BPOM"
+  },
+  {
+    "Kode": "PP.01.03",
+    "Keterangan": "Pelayanan Pengujian Obat dan Makanan",
+    "Jenis": "Tanggapan Hasil Pengujian BB/BPOM/Uji Absah yang hanya ditanggapi",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah kec kasus nasional",
+    "Uraian": "Arsip atau rekaman kegiatan  yang berkaitan dengan proses pemberian tanggapan hasil pengujian balai /reviu hasil pengujian balai/UPT)/ uji absah mulai dari permohonan uji absah sampai dengan sertifikat/laporan pengujian atau laporan tanggapan hasil uji TMS BB/BPOM"
+  },
+  {
+    "Kode": "PP.02.01",
+    "Keterangan": "Pengembangan Metode Analisis(Validasi/Verifikasi) dan Uji \nKolaborasi",
+    "Jenis": "Proses Pengembangan (validasi/verifikasi) Metode Analisis",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengembangan metode analisis (validasi/verifikasi) mulai dari usulan judul Metode Analisis, referensi, pengadaan baku pembanding, reagen, media, sampel dan alat fungsional lain , proses pengujian, pembahasan, sidang pleno, sampai dengan penerbitan dan sosialisasi hasil metode analisis"
+  },
+  {
+    "Kode": "PP.02.02",
+    "Keterangan": "Pengembangan Metode Analisis(Validasi/Verifikasi) dan Uji \nKolaborasi",
+    "Jenis": "Metode Analisis",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Permanen",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan kegiatan pengembangan metode analisis (validasi/verifikasi) mulai dari usulan judul Metode Analisis, referensi, pengadaan baku pembanding, reagen, media, sampel dan alat fungsional lain , proses pengujian, pembahasan, sidang pleno, sampai dengan penerbitan dan sosialisasi hasil metode analisis"
+  },
+  {
+    "Kode": "PP.03.01",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Jenis": "Pengembangan Baku Pembanding",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan pengembangan dan distribusi baku pembanding mulai dari permintaan rencana sampling, rencana pengembangan baku pembanding , proses uji pendahuluan,  uji kolaborasi sampai dengan terbit sertifikat analisis baku pembanding"
+  },
+  {
+    "Kode": "PP.03.02",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Jenis": "Pengelolaan dan Distribusi Baku Pembanding untuk Internal BPOM",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan pengelolaan dan pendistribusian  baku pembanding internal ke BB/BPOM meliputi Kartu Stok Baku Pembanding, Surat Permintaan BP dari BB/BPOM, Lembar disposisi, Surat Pengantar dan Berita Acara Serah Terima, Formulir Distribusi Baku Pembanding Balai dan Buku Ekspedis"
+  },
+  {
+    "Kode": "PP.03.03",
+    "Keterangan": "Pengembangan dan Distribusi Baku Pembanding",
+    "Jenis": "Distribusi baku pembanding untuk eksternal",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekam kegiatan yang berkaitan dengan pendistribusian baku pembanding ekternal (pengguna  PNBP) yaitu Surat Permintaan Baku Pembanding dari Eksternal, Surat Perintah Bayar (SPB), Lembar bukti bayar dari Bank, Lembar SIMPONI, Formulir Penyerahan Baku Pembanding Eksternal, Buku Ekspedisi"
+  },
+  {
+    "Kode": "PP.04.01",
+    "Keterangan": "Kalibrasi Peralatan Laboratorium Pengujian",
+    "Jenis": "Kegiatan Kalibrasi di Internal BPOM",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan  dengan permohonan kalibrasi alat-alat laboratorium di internal BPOM meliputi permintaan jadwal rencana kalibrasi sampai dengan penerimaan hasil kalibrasi"
+  },
+  {
+    "Kode": "PP.04.02",
+    "Keterangan": "Kalibrasi Peralatan Laboratorium Pengujian",
+    "Jenis": "Kegiatan Kalibrasi di Eksternal BPOM",
+    "Aktif": 2,
+    "Inaktif": 2,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekam kegiatan yang berkaitan  dengan permohonan kalibrasi alat-alat laboratorium dari Eksternal permintaan jadwal rencana kalibrasi sampai dengan penerimaan hasil kalibrasi"
+  },
+  {
+    "Kode": "PP.05.01",
+    "Keterangan": "Penyediaan Hewan Uji/Baku Mikroba",
+    "Jenis": "Kegiatan Pengembangbiakan, Pemeliharaan dan Pengelolaan \nHewan Uji Baku Mikroba",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan proses pengembangbiakan, pemeliharaan dan pengelolaan hewan uji mulai dari rencana kegiatan pengadaan hewan uji dan baku mikroba, permintaan pembelian / pengadaan hewan, pakan hewan, beding, obat hewan alat fungsional lainnya, perbaikan sarana prasarana, serta stock opname hewan uji dan pakan hewan"
+  },
+  {
+    "Kode": "PP.05.02",
+    "Keterangan": "Penyediaan Hewan Uji/Baku Mikroba",
+    "Jenis": "Kegiatan Pengembangbiakan, Pemeliharaan dan Pengelolaan \nHewan Uji Baku Mikroba",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan proses pelayanan hewan uji / baku mikroba untuk internal/ eksternal BPOM mulai dari permintaan dan penyerahan hewan percobaan sampai dengan end user agreement"
+  },
+  {
+    "Kode": "PP.06",
+    "Keterangan": "Uji Profisiensi/Uji Banding",
+    "Jenis": "Uji Profisiensi/Uji Banding",
+    "Aktif": 2,
+    "Inaktif": 3,
+    "Penyusutan": "Musnah",
+    "Uraian": "Arsip atau rekaman kegiatan yang berkaitan dengan uji profisiensi/uji banding mulai dari perencanaan, proses pelaksanaan laporan hasil, evaluasi sampai dengan pemberitahuan pengiriman laporan hasil uji profisiensi/ uji banding ke peserta"
+  }
+]
+    
+ } 

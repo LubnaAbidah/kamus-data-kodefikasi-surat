@@ -3,7 +3,7 @@
       <!DOCTYPE html>
  <html>
       <head>
-           <title>Kamus Data Kodefikasi Surat</title>
+           <title>Kamus Data Kodefikasi Surat Versi 3.0</title>
            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
            <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>  
            <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>    
@@ -23,10 +23,11 @@
                     Kamus Data Kodefikasi Surat</h1>
                 </div>
             
-                <a class="btn btn-primary" href="https://lubnaabidah.github.io/kamus-data-kodefikasi-surat/versi01.html" role="button">App Kamus Data Versi 01</a>
-                <a class="btn btn-success" href="https://lubnaabidah.github.io/kamus-data-kodefikasi-surat/versi02.html" role="button">App Kamus Data Versi 02</a>
-                <a class="btn btn-danger" href="https://lubnaabidah.github.io/kamus-data-kodefikasi-surat/index.html" role="button">App Kamus Data Versi Terbaru</a>
+                <a class="btn btn-danger" href="https://lubnaabidah.github.io/kamus-data-kodefikasi-surat/versi03.html" role="button">App Kodefikasi 2019 - 27 Mei 2021</a>
+                 <a class="btn btn-success" href="https://lubnaabidah.github.io/kamus-data-kodefikasi-surat/index.html" role="button">App Kodefikasi 2021 (Terbaru)</a>
                 <hr/>
+
+                <div class="alert alert-success" ><h3 align="center">App Kodefikasi 2021 (Terbaru)</h3></div>
             
                 <div class="panel panel-default">
                <!-- Default panel contents -->
@@ -85,9 +86,6 @@
                                <th>Keterangan</th> 
                                <th>Jenis</th> 
                                <th>Uraian</th> 
-                               <th>Aktif</th> 
-                               <th>Inaktif</th> 
-                               <th>Penyusutan</th> 
                           </tr>
                      </thead>
                      <tfoot>
@@ -96,9 +94,6 @@
                                <th>Keterangan</th> 
                                <th>Jenis</th> 
                                <th>Uraian</th>
-                               <th>Aktif</th> 
-                               <th>Inaktif</th> 
-                               <th>Penyusutan</th> 
                           </tr>
                      </tfoot>
                 </table>
@@ -107,12 +102,12 @@
 
           <!-- Footer -->
            <footer class="navbar navbar-default">
-                <div class="text-center " > Loka Tulang Bawang @ 2020 Copyright | Lubna Abidah</div>
+                <div class="text-center " > Loka Tulang Bawang @ 2021 Copyright | Lubna Abidah</div>
           </footer>
           <!-- Footer -->
            <!-- script -->
            <script>
-           $(document).ready(function(){
+            $(document).ready(function(){
             // Setup - add a text input to each footer cell
               $('#data-table thead tr').clone(true).appendTo( '#data-table thead' );
               $('#data-table thead tr:eq(1) th').each( function (i) {
@@ -138,7 +133,7 @@
                        'csvHtml5',
                        'pdfHtml5'
                    ],
-                  "ajax" : "csvjson.json",
+                  "ajax" : "kodefikasi_surat_baru.json",
                   "language" : {
                               "url":"indonesia.json"
                             },
@@ -147,9 +142,6 @@
                        { "data": "Keterangan" },
                        { "data": "Jenis" },
                        { "data": "Uraian" },
-                       { "data": "Aktif" },
-                       { "data": "Inaktif" },
-                       { "data": "Penyusutan" }
                   ]
               } );
            });
